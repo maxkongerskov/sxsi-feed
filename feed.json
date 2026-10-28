@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T16:54:46Z",
+  "generatedAt": "2026-10-28T17:04:56Z",
   "news": [
     {
       "id": "5327b236ed829588",
@@ -492,6 +492,137 @@
       "importance": 2
     },
     {
+      "id": "a17e95829f5f3b0a",
+      "company": "tesla",
+      "title": "Tesla Cybercabs dominate Austin F1 weekend with record sightings",
+      "summary": "Tesla's Cybercabs made a major appearance during the Austin F1 Grand Prix, setting a new record for sightings and showcasing the company's progress in autonomous vehicle deployment.",
+      "body": "Tesla's Cybercabs were in full force during the Austin F1 Grand Prix, marking one of the largest public deployments of the autonomous vehicle fleet to date. The event served as a major stress test for the robotaxis, with sightings reaching a record high. Tesla's head of AI software, Ashok Elluswamy, shared a photo of a long line of gold Cybercabs and Model Y Robotaxis near the Circuit of the Americas, highlighting the scale of the operation. The fleet was also used to transport fans back to their homes after the race, with ride requests continuing well into the night.\n\nThe deployment was carefully planned in advance, with the Robotaxi app showing expanded service areas around the track. However, not all areas were accessible, and some riders found the drop-off points inconvenient. Cybercab Spotter, a tracking account, reported 1,250 sightings in Austin on Saturday, surpassing the previous record. This number reflects the fleet's activity rather than its total size, as the Texas automated vehicle registry listed 463 Cybercabs registered in the area.\n\nTesla has not yet disclosed the number of rides provided during the event or whether the expanded service area and late-night cutoff will remain after the race weekend. The company has previously indicated plans to extend service hours and operate Robotaxi around the clock by the end of the year. Additionally, Tesla aims to deliver the first Cybercabs to external customers before the end of 2026, marking a significant shift in the vehicle's deployment strategy.\n\n## Battery Design for Future Cost Reduction\nTesla's Cybercab battery design includes extra space for a potential switch to lithium iron phosphate (LFP) cells, which could reduce costs and improve serviceability. The design allows for future upgrades without compromising range, and the modular battery structure enables easier repairs and replacements. This innovation is expected to play a key role in making robotaxis more affordable and sustainable in the long term.",
+      "imageUrl": "https://www.teslarati.com/wp-content/uploads/2026/10/tesla-cybercab-pairing-1000x600.jpeg",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/tesla-cybercabs-take-over-austins-f1-weekend/",
+      "publishedAt": "2026-10-26T05:04:23Z",
+      "tags": [
+        "robotaxi",
+        "cybercab",
+        "austin",
+        "f1",
+        "tesla"
+      ],
+      "importance": 3
+    },
+    {
+      "id": "989a1465a59cb5ae",
+      "company": "spacex",
+      "title": "Possible Roberts Road Expansion as SpaceX pushes for Flight 16",
+      "summary": "SpaceX is considering expanding Roberts Road to accommodate increased traffic related to its upcoming Flight 16 launch.",
+      "body": "SpaceX is evaluating the possibility of expanding Roberts Road near its launch site to manage the anticipated rise in traffic associated with Flight 16. The expansion would help ensure smoother operations and reduce delays during the busy launch period. The company has not yet confirmed the details of the project, but officials have indicated that infrastructure improvements are a priority as launch schedules become more frequent. This potential development comes as SpaceX continues to increase its operational pace, with multiple launches planned in the coming months. Local authorities are being consulted to assess the feasibility of the expansion and its impact on surrounding areas. The project is part of broader efforts to support SpaceX's growing operations and maintain efficiency at the launch site. If approved, the expansion could be completed in time for Flight 16, which is expected to take place in the near future. SpaceX has a history of working closely with local governments to address infrastructure needs related to its missions. This initiative highlights the company's commitment to ensuring that its operations do not disrupt the surrounding community while meeting the demands of an increasingly active launch schedule. The expansion would also align with SpaceX's long-term goals of increasing the frequency of launches and reducing costs through operational efficiencies. As the company prepares for Flight 16, the focus remains on ensuring that all aspects of the mission, including infrastructure, are properly managed to support continued success.",
+      "imageUrl": null,
+      "source": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/",
+      "publishedAt": "2026-10-25T18:21:44Z",
+      "tags": [
+        "spacex",
+        "flight16",
+        "infrastructure",
+        "robertsroad"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "8157d057bf23fdde",
+      "company": "tesla",
+      "title": "Tesla Cybercab Adds Rear Camera and Quiet Mode Features",
+      "summary": "Tesla has introduced rear camera and quiet mode features to its Cybercab, enhancing passenger experience and usability.",
+      "body": "Tesla has rolled out new features for its Cybercab, allowing passengers to view a live rear camera feed and activate a quiet mode to darken the cabin screen. These updates were discovered by riders in Austin, who shared their experiences on social media. The rear camera view provides passengers with visibility of what is behind the vehicle, addressing a design limitation of the Cybercab, which lacks traditional mirrors and a rear window.\n\nThe quiet mode feature, which darkens the screen, was also noted by riders. This addition aims to improve passenger comfort, particularly during nighttime rides or when passengers wish to rest. The features were implemented quickly following a request from a Cybercab rider, indicating Tesla's responsiveness to user feedback.\n\nThe introduction of these features highlights Tesla's ongoing efforts to refine the Cybercab experience. The company is also preparing the Cybercab for broader deployment outside its own fleet, with plans to deliver the vehicles to customers by the end of 2026. However, it remains unclear if these features will be extended to Tesla's Model Y Robotaxi fleet.\n\nThe updates come as part of a series of improvements for Cybercab riders in Austin, including a redesigned Live Activity for iPhone and Apple Watch and live trip sharing. These enhancements reflect Tesla's commitment to continuously improving its autonomous vehicle offerings.",
+      "imageUrl": "https://www.teslarati.com/wp-content/uploads/2026/10/tesla-cybercab-cameras-visibility-1000x600.jpg",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/tesla-cybercab-rear-view-camera/",
+      "publishedAt": "2026-10-25T14:34:00Z",
+      "tags": [
+        "tesla",
+        "cybercab",
+        "features",
+        "robotaxi"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "11eca2360968df2c",
+      "company": "starlink",
+      "title": "SpaceX launches Starlink satellites from California as Falcon 9 cadence slows",
+      "summary": "SpaceX launched a new batch of Starlink satellites from California, marking a shift in focus toward its Starship rocket.",
+      "body": "SpaceX launched its newest batch of Starlink broadband internet satellites from the California coast on October 23. The Falcon 9 rocket carried 27 satellites into low Earth orbit, continuing the expansion of the Starlink constellation. This mission marked the 116th Falcon 9 flight of 2026, with the majority of these launches dedicated to Starlink missions.\n\nThe Falcon 9's first stage booster, B1063, successfully landed on SpaceX's droneship 'Of Course I Still Love You' after separating from the second stage. This was B1063's 36th launch and landing, including its role in NASA's DART asteroid mission in 2021. The second stage will perform a second burn to place the satellites into their intended orbit, with deployment expected about 62 minutes after launch.\n\nSpaceX is gradually shifting its focus from the Falcon 9 to its larger Starship rocket, which is designed for full reusability and can carry the upgraded Version 3 Starlink satellites. Once Starship becomes operational, the Falcon 9 and its Falcon Heavy variant are expected to be phased out. This transition has led to a slower Starlink launch cadence, with missions now occurring less frequently than in previous years.\n\nThe reduced frequency of Falcon 9 launches has already made 2025 the busiest year for the rocket, with 165 launches completed. At the current rate, the Falcon 9 is expected to complete just under 150 missions by the end of 2026.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/9Xh2uRRjmC6ZiQ6YNb7vpY-2560-80.jpg",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-15-b1063-ocisly",
+      "publishedAt": "2026-10-23T23:26:41Z",
+      "tags": [
+        "starlink",
+        "spacex",
+        "falcon9",
+        "starship",
+        "satellite"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "dc9ac0e2201cca86",
+      "company": "tesla",
+      "title": "Tesla Q3 2026 Earnings Highlight Margin Recovery and FSD Subscriptions",
+      "summary": "Tesla's Q3 2026 financial results show margin recovery, but profit still declined, with FSD subscriptions reaching 1.74 million.",
+      "body": "Tesla released its Q3 2026 financial results, indicating a rebound in margins despite a decline in overall profit. The company attributed flat sales to battery supply issues, while its prices continue to fall. FSD 'subscriptions' reached 1.74 million, a figure counted in a manner aligned with Elon Musk's pay package structure. However, Tesla's energy revenue dropped 16% due to customer refunds related to tariffs. The company also pushed back the unsupervised FSD rollout to Q2 2027, limited to Robotaxi zones. Additionally, Tesla quietly reduced its 2026 capital expenditure guidance to $20 billion. The company also delayed Optimus deliveries to late 2027, citing ongoing challenges with hand functionality. Tesla now claims it needs its own maps for FSD, reversing years of dismissing the importance of mapping technology. During its earnings call, Tesla skipped addressing a significant shareholder question, drawing attention to its communication strategy. Meanwhile, other developments in the EV space include BYD's new Seagull EV with 5-minute Flash Charging, starting under $10,000, and the 2027 Ford Mustang Mach-E gaining a standard long-range battery with a starting price of $40,000. Volvo is also set to launch a lower-priced EV in 2027 based on its SPA3 platform. Huawei’s car unit has joined CATL’s 2,520-station battery swap network, further expanding the EV charging infrastructure.",
+      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&strip=all&resize=1200,628",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/23/podcast-tesla-earnings-discussion-new-byd-seagull-mustang-mach-e-update-and-more/",
+      "publishedAt": "2026-10-23T19:47:02Z",
+      "tags": [
+        "tesla",
+        "q3 earnings",
+        "f sd",
+        "battery supply",
+        "optimus"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "4384c593f7250ea8",
+      "company": "tesla",
+      "title": "Tesla cancels Cybertruck in Australia and NZ after 7 years of deposits",
+      "summary": "Tesla has officially cancelled the Cybertruck for Australia and New Zealand, refunding deposits and offering FSD subscriptions to affected customers.",
+      "body": "Tesla has officially cancelled the Cybertruck for Australia and New Zealand. Reservation holders are receiving emails informing them that their orders are void and deposits will be refunded. Australians began reserving the electric pickup in November 2019, waiting nearly seven years for a vehicle Tesla now says it will not produce for the region.\n\nThe company stated in the email that plans to produce the Cybertruck for these markets have been discontinued. As a result, reservations cannot be fulfilled, and refunds will be processed within 30 days. Tesla is offering a free one-year subscription to FSD (Supervised) to reservation holders who switch to a new Model 3 or Model Y.\n\nThe decision comes after Tesla quietly closed the Australian reservation page in 2022 and replaced it with a “Get updates” button. No refunds were issued at the time, and customers continued waiting. In 2024, Tesla sent a Cybertruck to Australia for a display tour, but no right-hand-drive version was ever produced.\n\nThe core issue is that the Cybertruck is built only in left-hand drive, which is not suitable for countries like Australia and New Zealand. Certification and adaptation for these markets would be costly, and demand for the vehicle has not been strong enough to justify such an investment.\n\nTesla’s international Cybertruck launches have been limited to left-hand-drive markets, with deliveries beginning in South Korea and the UAE. The vehicle remains blocked in the EU due to pedestrian safety concerns. Sales of the Cybertruck have also declined in the US, raising questions about its long-term viability.\n\nThis decision highlights the challenges Tesla faces with the Cybertruck, which is now primarily a niche product in the US. The company is focusing on selling existing left-hand-drive units in international markets rather than investing in new production lines.",
+      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2025/05/Tesla-prices-2025-Cybertruck.jpg?quality=82&strip=all&resize=1200,628",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/23/tesla-cancels-cybertruck-australia-new-zealand/",
+      "publishedAt": "2026-10-23T14:35:37Z",
+      "tags": [
+        "tesla",
+        "cybertruck",
+        "australia",
+        "newzealand",
+        "refunds"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "486a57d1afc3f4b8",
+      "company": "tesla",
+      "title": "Tesla's $10B Texas solar factory could get 35 years of tax breaks",
+      "summary": "Tesla's proposed $10 billion solar factory in Texas could receive up to 35 years of tax breaks, according to agreements approved by Fort Bend County commissioners.",
+      "body": "Tesla’s proposed $10 billion solar factory in Texas, known as Project Crystal Sun, could receive up to 35 years of tax breaks, according to agreements approved by Fort Bend County commissioners. The vote was unanimous, though Tesla has not yet committed to building the plant in Texas.\n\nThe tax incentives include a 10-year property tax abatement on equipment and inventory, followed by a 20-year grant covering 90% of county taxes on the same assets. If Tesla meets specific employment targets, the agreement could extend to 35 years. The plant, if built, would be located near Richmond, southwest of Houston, and is expected to begin commercial production by Q1 2029.\n\nThe agreements cover different aspects of Tesla’s tax obligations. The Chapter 312 tax abatement covers equipment and inventory for 10 years, while the Chapter 381 incentive agreement provides a 90% tax rebate for the next 20 years. A foreign trade zone agreement would exempt inventory from local property tax in exchange for Tesla making payments in lieu of taxes (PILOT).\n\nTo qualify for the tax breaks, Tesla must meet specific employment and investment targets. It must start construction by June 30, 2027, and invest $10 billion by December 31, 2031. If Tesla averages at least 12,000 employees for two consecutive years during the first decade, the tax rebate period could extend to 25 years.\n\nThe county’s minimum guarantee is $2 million annually, and Tesla’s own consultant estimated the project would generate $276.5 million in general taxes over 38 years without incentives. However, Tesla has not yet confirmed its commitment to build the plant in Texas, and the state still needs to approve the school-tax portion of the agreement.\n\nThe deal highlights the competitive nature of site selection for large-scale manufacturing projects. Fort Bend County’s economic development director stated the county would have been eliminated from consideration without these agreements. The outcome remains uncertain as Tesla has not officially committed to the project.",
+      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/05/Tesla-solar-panels.jpeg?quality=82&strip=all&resize=1200,628",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/23/tesla-solar-factory-texas-35-years-tax-breaks-fort-bend/",
+      "publishedAt": "2026-10-23T14:25:54Z",
+      "tags": [
+        "tesla",
+        "solar",
+        "texas",
+        "tax breaks",
+        "project crystal sun"
+      ],
+      "importance": 3
+    },
+    {
       "id": "3556e7d022b5",
       "company": "spacex",
       "title": "Merger talk dominates after SpaceX and Tesla earnings",
@@ -527,6 +658,82 @@
       "importance": 1
     },
     {
+      "id": "d2ca4984c3cd71cc",
+      "company": "tesla",
+      "title": "Tesla Q4 updates: FSD delays, Optimus setbacks, and EV charging progress",
+      "summary": "Tesla announced further delays for its Full Self-Driving (FSD) and Optimus robot, while competitors like Porsche and BMW made strides in EV charging innovation.",
+      "body": "Tesla has pushed back the release of its unsupervised Full Self-Driving (FSD) feature to Q2 2027, with the update only available within Robotaxi zones. This marks another delay in the feature’s development, which has been repeatedly postponed over the past several years. Additionally, the company has delayed the delivery of its Optimus humanoid robot to late 2027, citing ongoing challenges with its hands' functionality.\n\nDespite these setbacks, Tesla reported a rebound in margins during its Q3 2026 financial results. However, the company’s overall profit still declined, and it has quietly reduced its 2026 capital expenditure guidance to $20 billion. Tesla also faced a 16% drop in energy revenue, attributed to customer refunds related to tariffs.\n\nMeanwhile, competitors in the EV charging space have made notable advancements. Porsche has introduced wireless charging into production, while BMW demonstrated its iX5 model capable of up to 460 kW during a public fast-charging demo. Fortescue, in collaboration with KUKA, is utilizing welding robots to manage high-capacity 6 MW charging cables, signaling progress in addressing range anxiety.\n\nThese developments highlight Tesla’s ongoing challenges in delivering promised technologies, while other automakers and companies are making tangible progress in EV infrastructure.",
+      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Tesla-HW3-overheat-fsd-v14-lite.webp.png?resize=1200,628",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/22/tesla-q4-numbers-more-product-delays-and-some-real-ev-charging-innovation/",
+      "publishedAt": "2026-10-23T00:11:04Z",
+      "tags": [
+        "tesla",
+        "ev",
+        "charging",
+        "funding",
+        "robotics"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "574608e1c7b76ce6",
+      "company": "tesla",
+      "title": "Tesla Avoids Key Shareholder Question on HW3 Upgrade Plans",
+      "summary": "Tesla skipped a major shareholder question about when Hardware 3 owners would receive a free computer upgrade for unsupervised Full Self-Driving during its Q3 2026 earnings call.",
+      "body": "During Tesla's Q3 2026 earnings call, the company skipped a top shareholder question regarding when Hardware 3 (HW3) owners would receive a free computer upgrade for the unsupervised 'Full Self-Driving' (FSD) feature they paid for. The question, which ranked fifth on the Say platform with 557 votes and 652,900 shares, was not addressed by Tesla's investor relations team, Travis Axelrod, despite being among the most upvoted queries.\n\nThe question asked: 'Tesla has acknowledged that HW3 vehicles cannot support unsupervised FSD. When will owners know whether they can upgrade their hardware for free, and when will Tesla provide a clear plan?' Tesla answered other questions about the Cybercab, robotaxi, and Optimus unit economics, but did not address the HW3 issue.\n\nTesla's head of AI, Ashok Elluswamy, did answer a related question about when unsupervised FSD would be available in customer cars. He stated that the same software running in Model Y robotaxis and the Cybercab would be available to customers with FSD v15, with the first customer vehicles joining the Robotaxi fleet 'somewhere around Q2 next year.' However, this timeline does not apply to HW3 vehicles, which Musk has previously stated lack the necessary hardware capabilities.\n\nTesla has faced legal challenges in the US, China, and Australia over the HW3 issue, with a Dutch collective claim involving nearly 7,000 owners. Documents show Tesla only submitted HW4 for FSD approval in Europe, while HW3 owners received a limited FSD v14 'Lite' version this year. The company has not provided a clear timeline or process for upgrading HW3 vehicles, despite previous promises from Musk about potential solutions like microfactories or next-gen boards.\n\nThe decision to skip the question has raised concerns about Tesla's transparency and legal exposure. Shareholders and owners are now left waiting for a resolution, with many questioning whether Tesla will ultimately honor its commitments to HW3 owners.",
+      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Tesla-HW3-overheat-fsd-v14-lite.jpeg?quality=82&strip=all&resize=1200,628",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/22/tesla-skipped-hw3-shareholder-question-earnings-call/",
+      "publishedAt": "2026-10-22T21:23:05Z",
+      "tags": [
+        "tesla",
+        "fsw",
+        "hardware",
+        "shareholders",
+        "lawsuit"
+      ],
+      "importance": 3
+    },
+    {
+      "id": "1b5aac0b3421c77a",
+      "company": "tesla",
+      "title": "Tesla builds its own maps for FSD after years of rejecting them",
+      "summary": "Tesla is developing its own maps to improve its Full Self-Driving system, marking a shift from its previous stance against relying on maps for autonomous driving.",
+      "body": "Tesla is now building its own maps to address recurring issues with its Full Self-Driving (FSD) system, including speed limit recognition, parking, and route selection. This change was revealed during Tesla’s Q3 2026 earnings call, where the company’s head of AI acknowledged the need to move away from third-party maps. The new system will use AI-based mapping and navigation, learning from the collective data of Tesla’s fleet and adapting to individual driver preferences.\n\nThe decision represents a notable shift for Tesla, which had previously dismissed the use of maps as unnecessary and overly complex. In 2019, Elon Musk described high-precision lane maps as a “huge mistake” and argued that self-driving could be achieved with cameras and AI alone. However, recent challenges with FSD’s ability to interpret basic road information, such as speed limit signs, have led the company to reconsider its approach.\n\nTesla’s new mapping system will initially handle the beginning and end of trips with FSD v15, with full navigation, parking, and destination handling expected in the following months. This approach mirrors that of Waymo, which uses its own fleet of vehicles to map cities and update them continuously. The key difference is that Waymo relies on lidar, while Tesla’s system is based on vision and AI.\n\nThe need for maps highlights a growing recognition that even advanced vision systems have limitations. Tesla’s fleet is now effectively acting as a mapping fleet, collecting data to improve the accuracy of its self-driving technology. This development brings Tesla closer to Waymo’s model, despite Musk’s earlier criticisms of the need for lidar and detailed maps.\n\nAs Tesla moves forward with its new mapping system, the company faces challenges in proving that its approach can reliably handle basic road information. The recent Belgian study showing FSD vehicles speeding in 30 km/h zones underscores the urgency of this change. With Tesla’s Robotaxi service operating in geofenced areas, the integration of its own maps may be a crucial step toward achieving a more reliable self-driving system.",
+      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2021/11/Tesla-Software-Update-Interior-2.0.jpg?quality=82&strip=all&resize=1200,628",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/22/tesla-building-own-maps-fsd-after-mocking-maps/",
+      "publishedAt": "2026-10-22T20:03:18Z",
+      "tags": [
+        "tesla",
+        "fsd",
+        "maps",
+        "autonomous",
+        "ai"
+      ],
+      "importance": 3
+    },
+    {
+      "id": "56b11a9f8ecd600b",
+      "company": "tesla",
+      "title": "Tesla pushes Optimus delivery to late 2027, citing hand and AI challenges",
+      "summary": "Tesla has delayed Optimus humanoid robot deliveries to late 2027, citing ongoing issues with the robot's hands, durability, and AI capabilities.",
+      "body": "Tesla has pushed back the delivery of its Optimus humanoid robots to late 2027, according to Elon Musk during the company's Q3 2026 earnings call. The delay is attributed to unresolved challenges with the robot's hands, durability, and AI performance. Musk noted that these are common hurdles across the humanoid robotics industry, though he claimed no competitor is as close to Tesla's capabilities as he believes.\n\nTesla has begun early production of Optimus at its Fremont facility, which previously produced the Model S and Model X. The production line is designed for a million robots annually, but Musk acknowledged it will take at least a year, and possibly longer, to reach a rate of 20,000 units per week. This is due to ongoing design changes, particularly in the robot's hand and custom gear components.\n\nThe hand remains one of the most challenging hardware areas for Optimus. It must be soft enough to handle delicate objects while also being durable enough to withstand constant wear. Musk emphasized that the robot's AI architecture is also under development, as Tesla lacks the large fleet of robots needed to collect data in the same way its vehicles do for Full Self-Driving (FSD) capabilities. To address this, Tesla plans to build 10,000 to 20,000 robots for testing in an 'Optimus Academy.'\n\nMusk also mentioned that Tesla will release a video within a month or two showcasing the robot performing unscripted tasks, aiming to demonstrate its real-world capabilities. However, the timeline for Optimus has repeatedly shifted, with previous goals of 2025 and 2026 now pushed to 2027.\n\nCompetitors such as XPeng and Boston Dynamics are also working on humanoid robots, with XPeng planning mass production of its IRON robot by the end of 2026 and Boston Dynamics already deploying its Atlas robot in a car factory. Despite Musk's claims of Tesla's lead, these companies are making progress with similar timelines.\n\nTesla's challenges with Optimus mirror those faced by other robotics companies, including the need for reliable hardware, robust AI, and practical applications. While Tesla has built a significant number of robots, the real challenge lies in making them useful and commercially viable.",
+      "imageUrl": null,
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/22/tesla-optimus-delivery-late-2027-hands-ai-problems/",
+      "publishedAt": "2026-10-22T15:56:42Z",
+      "tags": [
+        "optimus",
+        "tesla",
+        "robotics",
+        "ai",
+        "production"
+      ],
+      "importance": 2
+    },
+    {
       "id": "01da00a78737",
       "company": "tesla",
       "title": "Tesla plans Cybercab expansion to Dallas and sales to fleet operators",
@@ -541,6 +748,82 @@
         "robotaxi",
         "autonomy",
         "nhtsa"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "ee26ca835b182c35",
+      "company": "tesla",
+      "title": "Kia EV6 GT Outperforms Tesla Model Y in German EV Comparison Test",
+      "summary": "Kia's EV6 GT outperformed the Tesla Model Y Performance in a recent German EV comparison test, scoring higher in driving performance and powertrain categories.",
+      "body": "Kia’s EV6 GT emerged as the top performer in a recent high-performance electric vehicle (EV) comparison test conducted by the German magazine Auto Motor und Sport. The test evaluated five EVs across seven categories, including safety, powertrain, and driving performance. The EV6 GT ranked first with 585 points, edging out the Tesla Model Y Performance, which came in second with 576 points.\n\nThe EV6 GT excelled in three key categories: safety, powertrain, and driving performance. It scored 96 points in driving performance, significantly higher than the Tesla Model Y Performance’s 76 points. The EV6 GT’s dual-motor all-wheel-drive (AWD) powertrain delivers up to 650 horsepower and 770 Nm of torque, contributing to its strong performance.\n\nThe test highlighted the EV6 GT’s superior braking and high-speed stability, which contributed to its top score in the safety category. Additionally, the EV6 GT features a new connected car Navigation Cockpit (ccNC) infotainment system with dual 12.3-inch navigation and driver display screens in a curved panoramic setup.\n\nDespite its strong performance, the EV6 GT is not currently available in the US, as Kia announced its discontinuation there earlier this year. The Tesla Model Y Performance, which starts at 63,970 euros in Germany, offers a longer WLTP range of up to 360 miles compared to the EV6 GT’s 279 miles.\n\nThe comparison test underscores the growing competition in the high-performance EV segment, with non-Tesla brands like Kia gaining recognition for their advanced features and performance capabilities.",
+      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Kia-EV6-GT-test.jpeg?quality=82&strip=all&resize=1200,628",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/22/kia-ev6-gt-beats-out-tesla-model-y-and-byd-german-ev-test/",
+      "publishedAt": "2026-10-22T14:39:02Z",
+      "tags": [
+        "tesla",
+        "kia",
+        "ev6 gt",
+        "model y",
+        "ev comparison"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "6342bafe68a93aa7",
+      "company": "tesla",
+      "title": "Tesla lowers 2026 capex guidance to $20B",
+      "summary": "Tesla has revised its 2026 capital spending forecast downward from over $25 billion to more than $20 billion, signaling a shift in its financial strategy.",
+      "body": "Tesla has adjusted its 2026 capital expenditure (capex) guidance, reducing it from over $25 billion to more than $20 billion. This change was outlined in the company's Q3 10-Q filing, though not mentioned in its shareholder letter. The revision comes as Tesla reported $1.53 billion in positive free cash flow for the quarter, a figure heavily influenced by timing factors and accounting practices.\n\nThe company's capex guidance has fluctuated throughout the year. Initially set at around $20 billion, it was raised to over $25 billion in April, with CFO Vaibhav Taneja reaffirming the figure in July. However, the latest update brings it back to the original estimate. Tesla has already spent $13.01 billion in 2026, with $4.73 billion allocated in Q3 alone. To meet the previous $25 billion target, the company would have needed to spend nearly $12 billion in Q4, which is more than double its highest quarterly spending.\n\nThe 10-Q attributes the spending to initiatives like compute infrastructure, data centers, factory expansions, and company-operated assets. However, Tesla's actual spending is ahead of its reported cash capex, with $3.67 billion in equipment and construction liabilities as of September, up from $2.63 billion in June.\n\nTesla's Q3 free cash flow of $1.53 billion was driven by operating cash flow of $6.26 billion, which included $2.59 billion from changes in working capital. This figure was partly supported by accounts payable and accrued liabilities, including $722 million in unpaid purchases and $588 million in deferred revenue from SpaceX for undelivered Megapacks.\n\nThe capex reduction follows Tesla securing $30 billion in new credit facilities, including a $20 billion delayed-draw term loan and $10 billion in revolving credit. As of the end of Q3, Tesla had $45.4 billion in cash and investments, though it had not drawn on the new facilities.\n\nThe shift in capex guidance raises questions about whether Tesla is slowing its spending to preserve cash or if projects are being delayed into 2027. The company has not provided a clear explanation for the change, leaving investors to speculate on its implications for future growth and AI initiatives.",
+      "imageUrl": null,
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/22/tesla-cuts-2026-capex-guidance-q3-cash-flow/",
+      "publishedAt": "2026-10-22T14:00:01Z",
+      "tags": [
+        "tesla",
+        "capex",
+        "financials",
+        "free cash flow",
+        "2026"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "68921763ce0d9cf4",
+      "company": "tesla",
+      "title": "Tesla plans to sell Cybercab with no steering wheel by year-end",
+      "summary": "Tesla announced plans to deliver the Cybercab to customers by the end of 2026, but the vehicle will lack a steering wheel and self-driving software until mid-2027.",
+      "body": "Tesla has announced its intention to deliver the Cybercab to consumers by the end of 2026. However, the vehicle will not include a steering wheel or fully autonomous driving software, raising questions about its usability during the initial period of ownership.\n\nDuring Tesla’s Q3 earnings call, the company stated that unsupervised Full Self-Driving (FSD) software will be available to customers by mid-2027. This timeline marks a shift from previous estimates, which had placed the release of such technology further into the future. The Cybercab, however, is expected to reach customers by the end of 2026, according to VP of Engineering Lars Moravy.\n\nThe timeline raises concerns about the usability of the Cybercab during the six-month gap between its delivery and the availability of FSD software. Without a steering wheel or pedals, the vehicle would be inoperable for personal use, potentially limiting it to Tesla’s own Robotaxi fleet initially.\n\nTesla has also indicated that the Cybercab will be the first fully autonomous vehicle delivered to customers, with the company planning to scale its autonomous vehicle operations over time. However, the lack of immediate access to FSD software may limit the vehicle’s functionality in the short term.\n\nCritics have questioned the practicality of this approach, noting that Tesla’s current Robotaxi fleet is limited in scope and that the Cybercab’s production may not meet demand. The company has not yet provided a clear explanation for the delay in making FSD software available to customers, despite having promised it for years.",
+      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2024/11/img_3082.jpg?quality=82&strip=all&resize=1200,628",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/21/tesla-wants-to-sell-you-a-useless-car-with-no-steering-wheel-this-year/",
+      "publishedAt": "2026-10-21T22:32:50Z",
+      "tags": [
+        "tesla",
+        "cybercab",
+        "autonomous",
+        "fsd",
+        "2026"
+      ],
+      "importance": 3
+    },
+    {
+      "id": "1cf21866bee58de2",
+      "company": "tesla",
+      "title": "Tesla delays unsupervised FSD to 2027, limited to Robotaxi zones",
+      "summary": "Tesla has pushed the release of unsupervised Full Self-Driving (FSD) to Q2 2027, with the feature only available in limited Robotaxi zones.",
+      "body": "Tesla has announced that unsupervised Full Self-Driving (FSD) in customer-owned vehicles will not be available until Q2 2027. This update comes during Tesla’s Q3 2026 earnings call, where AI chief Ashok Elluswamy clarified that the feature will only be accessible within Tesla’s managed Robotaxi fleet, not as a standalone autonomous driving solution for personal use.\n\nThe timeline for FSD has been a long-standing promise from Elon Musk, dating back to 2016. However, Elluswamy emphasized that the first step is not a software update enabling personal autonomous travel, but rather allowing owners to add their cars to Tesla’s Robotaxi network. This means that unsupervised driving will only occur in areas where Tesla’s Robotaxi service is already operational.\n\nCurrently, Tesla’s Robotaxi service operates in six U.S. metropolitan areas, but the coverage is limited. For example, in Miami, the service is confined to West Miami and parts of Doral and Sweetwater. Similar small geofences exist in Orlando and Tampa. These zones typically involve low-speed routes and avoid highways and more complex urban areas.\n\nThe fleet size is also modest. Tesla reported nearly 2 million cumulative unsupervised miles by the end of Q3 2026, but third-party tracking indicates only a small number of fully driverless vehicles are on the road. This contrasts with Waymo, which has already established a presence in Orlando and Tampa and has logged over 3 million miles.\n\nThe shift in Tesla’s approach has raised concerns among investors and customers. The original pitch for FSD was a car that could eventually drive itself anywhere through a software update. However, the current plan significantly narrows the scope, focusing on fleet operations within controlled zones. This change has been described as a major shift in expectations, with critics noting that Tesla has a history of missing deadlines for FSD.\n\nThe California DMV remains a key hurdle for Tesla’s autonomous ambitions. While Tesla has a permit for testing with a driver, it has not yet received approval for driverless deployment. This delay highlights the challenges Tesla faces in meeting regulatory requirements and achieving full autonomy.",
+      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&strip=all&resize=1200,628",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/21/tesla-unsupervised-fsd-q2-2027-robotaxi-fleet/",
+      "publishedAt": "2026-10-21T22:18:57Z",
+      "tags": [
+        "tesla",
+        "f sd",
+        "robotaxi",
+        "autonomous",
+        "elon musk"
       ],
       "importance": 2
     },
