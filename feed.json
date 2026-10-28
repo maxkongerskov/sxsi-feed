@@ -1,7 +1,389 @@
 {
   "schemaVersion": 1,
-  "generatedAt": null,
-  "news": [],
-  "progress": [],
-  "financials": []
+  "generatedAt": "2026-10-28T16:09:02Z",
+  "news": [
+    {
+      "id": "3756b02846aa",
+      "company": "spacex",
+      "title": "Starship Flight 15 booster completes full 33-engine static fire",
+      "summary": "Super Heavy Booster 22 fired all 33 Raptor 3 engines at Starbase on October 25, a key step before Starship Flight 15.",
+      "body": "SpaceX lit all 33 Raptor 3 engines on Super Heavy Booster 22 for roughly 15 seconds at Starbase in South Texas on Sunday, October 25. The company described it on X as a full-duration static fire for the booster assigned to Flight 15.\n\nThe test kicks off the final round of checks on the first stage. Booster 22 will later be stacked with Ship 42, the upper stage for the mission, but the ship still has to complete its own static fire and final systems checks before the pair can fly.\n\n## An ambitious flight\n\nFlight 15 is shaping up to be one of the most demanding Starship missions yet. Elon Musk has said SpaceX will try to catch the ship upper stage with the launch tower for the first time, in addition to catching the booster. Catching both stages is central to SpaceX's plan to make Starship fully and rapidly reusable.\n\nThe mission follows Flight 14 in late September, the first Starship flight to reach orbit and the first to carry working payloads, a batch of Starlink V3 satellites. Recent FAA planning material lists early-to-mid November as the tentative window for Flight 15, though dates for a development programme like this often slip.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/tPwHSadFnKXigUVzEAMXwf-1862-80.png",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-ignites-giant-super-heavy-booster-engines-ahead-of-daring-starship-launch-video",
+      "publishedAt": "2026-10-26T16:00:00Z",
+      "tags": [
+        "starship",
+        "flight-15",
+        "static-fire",
+        "starbase"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "3556e7d022b5",
+      "company": "spacex",
+      "title": "Merger talk dominates after SpaceX and Tesla earnings",
+      "summary": "Investors and analysts are focusing on a possible SpaceX-Tesla combination after both companies reported quarterly results this week.",
+      "body": "A possible merger between SpaceX and Tesla has become the main talking point for investors following the two companies' third-quarter reports.\n\nOn SpaceX's earnings call on October 20, Elon Musk said he thinks combining the companies would be a good idea and confirmed that both boards have formed special committees of independent directors to study a deal. He stressed that no terms have been agreed and that a merger is far from certain.\n\nMusk opened Tesla's own call the next day by addressing the topic again, but did not add new details. As CEO and the largest individual shareholder of both companies, he is a conflicted party and says he cannot take part in the committees' discussions.\n\nAny transaction would need shareholder approval and regulatory clearance. Musk has pointed out that Tesla would need support from a majority of all outstanding shares, not just those voting, which is a higher bar than at SpaceX, where he controls more than half of the voting power.",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108441933-1792588782445-gettyimages-2301241048-vcg111675843076.jpeg?v=1792588817&w=1920&h=1080",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/23/spacex-tesla-merger-chatter-takes-center-stage-after-earnings.html",
+      "publishedAt": "2026-10-23T11:00:01Z",
+      "tags": [
+        "merger",
+        "tesla",
+        "spcx",
+        "tsla"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "7fc19b5dc05c",
+      "company": "boring",
+      "title": "SpaceX books $561 million gain on its Boring Company stake",
+      "summary": "SpaceX's quarterly filing shows a $561 million unrealised gain from its stake in The Boring Company, which recently raised $3 billion at a $23 billion valuation.",
+      "body": "SpaceX recorded an unrealised investment gain of $561 million in the third quarter from its stake in The Boring Company, according to its quarterly filing with the SEC. The gain made up more than half of SpaceX's other income for the period.\n\nThe Boring Company started inside SpaceX in 2017 and was spun out a year later. In September it raised $3 billion at a $23 billion valuation, with backing from the United Arab Emirates and other long-time Musk investors.\n\nThe tunnelling company has announced around a dozen city projects, but its only system open to the public today is the Las Vegas Convention Center Loop, which carries passengers in Tesla vehicles. Its largest active US build is the Music City Loop in Nashville, a planned link between downtown and the airport, and it plans more than 150 kilometres of tunnels in the UAE, including the Dubai Loop.\n\nThe same filing showed SpaceX bought $151 million of Tesla Megapack energy storage systems during the quarter.",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/107094802-1658941667625-gettyimages-1232949289-20090101210517-99-633989.jpeg?v=1753916170&w=1920&h=1080",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html",
+      "publishedAt": "2026-10-23T00:46:09Z",
+      "tags": [
+        "funding",
+        "spcx",
+        "valuation"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "01da00a78737",
+      "company": "tesla",
+      "title": "Tesla plans Cybercab expansion to Dallas and sales to fleet operators",
+      "summary": "Tesla says its Cybercab will launch in Dallas next month and more cities by year-end, and that it will start selling the vehicle to fleet operators before 2027.",
+      "body": "Tesla used its third-quarter earnings call to lay out an aggressive roll-out for the Cybercab, its two-seat autonomous vehicle with no steering wheel or pedals.\n\nAfter starting in Austin, the Cybercab will expand to Dallas next month and to further cities by the end of the year. Tesla already runs smaller robotaxi fleets based on the Model Y in Dallas, Houston, Miami, Orlando and Tampa. CFO Vaibhav Taneja said the company's ambition is to own transportation of every kind on Earth.\n\nEngineering vice president Lars Moravy said the Cybercabs built so far are all going into Tesla's own fleet, but that the company will begin delivering them to customers, starting with fleet operators, by year-end, and scale as it learns.\n\n## Regulatory question mark\n\nThe National Highway Traffic Safety Administration opened an investigation last month into how Tesla certified the Cybercab under federal safety standards, which still assume manual controls. The outcome could decide whether the vehicle can legally operate at scale. A Department of Transportation proposal to drop those requirements for self-driving vehicles is pending.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-open.jpg?resize=1200,856",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
+      "publishedAt": "2026-10-22T15:44:39Z",
+      "tags": [
+        "cybercab",
+        "robotaxi",
+        "autonomy",
+        "nhtsa"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "6ec4c467ad3b",
+      "company": "tesla",
+      "title": "Tesla starts Optimus production in Fremont",
+      "summary": "Tesla has begun building production-quality Optimus humanoid robots at its Fremont, California factory.",
+      "body": "Tesla has started producing its Optimus humanoid robot at the Fremont factory in California, in space that previously built electric vehicles. The company announced the milestone in its third-quarter shareholder letter.\n\nTesla called the robots now coming off the line the first production-quality units it has made, and said the process has proven suitable for a commercial product, although it will keep refining both hardware and manufacturing.\n\nOn the earnings call, Elon Musk described the effort as early. He said Tesla is making good progress on the AI that controls the robots but that a lot of work remains before Optimus is truly useful for open-ended tasks. He expects current challenges in electromechanical design, reliability, run time and AI to be solved around the end of next year.\n\nThe spending behind Optimus and other AI projects weighed on Tesla's profit in the quarter, with research and development costs and capital expenditure both rising sharply year over year.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/tesla-opitmus-Getty.jpg?resize=1200,800",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+      "publishedAt": "2026-10-21T20:33:09Z",
+      "tags": [
+        "optimus",
+        "robotics",
+        "fremont"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "441e00918c21",
+      "company": "tesla",
+      "title": "Tesla Q3 2026: revenue flat at $28.0 billion, profit down sharply",
+      "summary": "Tesla beat estimates with $28.05 billion in revenue and 48 cents adjusted EPS, but GAAP net income fell to $787 million as AI spending surged.",
+      "body": "Tesla reported third-quarter revenue of $28.05 billion, roughly flat year over year and slightly ahead of analyst expectations. Adjusted earnings per share came in at 48 cents, beating the consensus estimate of 43 cents, according to LSEG data cited by CNBC.\n\nGAAP net income attributable to shareholders fell to $787 million, or 22 cents per diluted share, from $1.37 billion a year earlier. Tesla blamed lower average selling prices and battery supply constraints that limited how many cars it could build against its order backlog.\n\n## Where the money came from\n\nAutomotive revenue slipped 3% to $20.56 billion and energy generation and storage revenue fell 16% to $2.88 billion, partly because of tariff-related customer refunds. Services and other revenue rose 33% to $4.61 billion, helped by more Full Self-Driving subscriptions.\n\nSpending climbed as Tesla invests in Optimus and other AI projects. Operating expenses rose 39% and income from operations fell to $718 million. Free cash flow was $1.53 billion, down 62% from a year ago but positive again after a negative second quarter. The shares slipped in after-hours trading.",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108307357-1778815414085-gettyimages-2275575381-20090101260514-99-424849.jpeg?v=1779312649&w=1920&h=1080",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
+      "publishedAt": "2026-10-21T16:00:01Z",
+      "tags": [
+        "earnings",
+        "q3-2026",
+        "tsla"
+      ],
+      "importance": 3
+    },
+    {
+      "id": "954ba61da6d3",
+      "company": "spacex",
+      "title": "SpaceX and Tesla boards set up committees to study a merger",
+      "summary": "Both companies have formed special committees of independent directors to review a possible combination, Elon Musk said on SpaceX's earnings call.",
+      "body": "The boards of SpaceX and Tesla have each created special committees of independent directors to look at a possible merger, Elon Musk said during SpaceX's third-quarter earnings call on October 20. He said the committees were formed at the request of shareholders.\n\nMusk, the CEO and largest individual shareholder of both companies, said he cannot take part because he is a conflicted party, and described the process as two groups talking without him in the room. He did not name the committee members.\n\nMusk said he supports the idea, arguing there is a lot to gain from combining work on AI software, robotics, SpaceX's orbital AI data centre project Starmind and Terafab, the joint chip manufacturing effort between the two companies. But he warned that people who treat a deal as certain are overstating it, and said the committees have not agreed any terms.\n\nApproval would be easier at SpaceX, where Musk holds more than half of the voting power since the IPO. At Tesla, a merger would need the backing of a majority of all shares outstanding.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/space-tesla-cybertruck.jpg?resize=1200,801",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+      "publishedAt": "2026-10-20T22:57:00Z",
+      "tags": [
+        "merger",
+        "tesla",
+        "spcx",
+        "governance"
+      ],
+      "importance": 3
+    },
+    {
+      "id": "3d8a2ba076f4",
+      "company": "spacex",
+      "title": "SpaceX Q3 2026: revenue up 161% to $14.6 billion, net income $4.4 billion",
+      "summary": "SpaceX's quarterly revenue jumped 161% year over year, driven by its Super Intelligence segment and Starlink growth, and it swung to a $4.4 billion profit.",
+      "body": "SpaceX (Nasdaq: SPCX) reported third-quarter revenue of $14.58 billion, up 161% from $5.58 billion a year earlier. Net income was $4.40 billion, compared with a $1.05 billion loss in the same quarter last year, and adjusted EBITDA reached $8.81 billion.\n\n## Segment by segment\n\nThe Super Intelligence (SI) segment, which includes Grok, Grok Bot and the recently acquired Cursor, brought in $7.56 billion, up 830% year over year. Cursor, acquired on August 14, contributed $608 million. Nameplate compute reached 1.7 gigawatts at the end of September as the Colossus II build-out continued.\n\nConnectivity, mainly Starlink, grew 69% to $5.25 billion, with operating income of $2.37 billion. Starlink ended the quarter with 13.6 million consumer subscribers, up 1.6 million in three months, and is installed on more than 3,800 aircraft.\n\nThe Space segment generated $1.77 billion from 35 launches, including the first orbital, revenue-earning Starship flight, which deployed 26 Starlink V3 satellites.\n\nCapital expenditure was $19.6 billion in the quarter, most of it on SI infrastructure. SpaceX ended September with $51.3 billion in cash plus $38.6 billion in marketable securities.",
+      "imageUrl": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spacex-wordmark1.jpg",
+      "source": "SpaceX (SEC filing)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm",
+      "publishedAt": "2026-10-20T20:00:00Z",
+      "tags": [
+        "earnings",
+        "q3-2026",
+        "spcx",
+        "starlink"
+      ],
+      "importance": 3
+    },
+    {
+      "id": "30f88eef5268",
+      "company": "spacex",
+      "title": "Starship Flight 15 and 16 milestones take shape",
+      "summary": "SpaceX is targeting November for Flight 15, with booster and ship catch attempts, and December for Flight 16, possibly the first Starship launch from Florida.",
+      "body": "SpaceX is working through preparations for its last two planned Starship flights of 2026, NASASpaceFlight reports.\n\nFlight 15 is targeted for November and aims to catch both the Super Heavy booster and the Starship upper stage with the launch tower. A ship catch would be a first and a major step toward full reusability.\n\nFlight 16 is aimed at December and could become the first Starship launch from Launch Complex 39A at NASA's Kennedy Space Center in Florida, opening a second launch site beyond Starbase in Texas. FAA planning documents shown at an industry conference list November 8 and December 10 as tentative dates for the two flights, though these are likely to move.\n\nIf both fly, SpaceX would end the year with five Starship launches in 2026. The relatively low number reflects the switch from Block 2 to the larger Block 3 vehicles, while SpaceX continues to plan for hundreds of launches a year from Starbase in the long term.",
+      "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-18-17-03-53-605.jpg",
+      "source": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/",
+      "publishedAt": "2026-10-18T16:31:04Z",
+      "tags": [
+        "starship",
+        "flight-15",
+        "flight-16",
+        "lc-39a"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "568aa47c4bd8",
+      "company": "tesla",
+      "title": "Tesla unveils thruster-equipped Roadster, due in 2028",
+      "summary": "Tesla revealed the second-generation Roadster near Waco, Texas, with SpaceX-style cold-gas thrusters and three trims, and said it will build the car in 2028.",
+      "body": "Tesla showed off its long-delayed second-generation Roadster at an event outside Waco, Texas. In a demonstration, the car used fans and cold-gas thrusters to drive up an inverted ramp, spin around and lift itself over other Tesla vehicles before landing.\n\nElon Musk said production will start in 2028 but did not give a price. Tesla is offering three trims. Performance seats two and is described as road-ready, with active aerodynamics and a suction system for grip. Thrust adds rear thrusters that Tesla says deliver 0 to 60 mph in under one second. Rocket is a single-seater with 10 thrusters and is invite-only.\n\nAll three trims are rated for about 300 miles of range and top speeds above 230 mph. Reservations opened on Tesla's website at $50,000 for Performance and $250,000 for Thrust.\n\nEngineering vice president Lars Moravy said the thrusters run on 600 litres of compressed air stored in carbon-fibre pressure vessels packed into every usable space in the car, and the tank can be recharged.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-roadster-2-fly.jpg?resize=1200,877",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+      "publishedAt": "2026-10-16T01:17:43Z",
+      "tags": [
+        "roadster",
+        "product-launch"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "793cd0506ac4",
+      "company": "xai",
+      "title": "Grok Voice 3.0 launches with top speech-to-speech scores",
+      "summary": "SpaceX's AI unit released Grok Voice 3.0, which ranks first on Artificial Analysis' speech-to-speech index, at the same API price as before.",
+      "body": "SpaceX Super Intelligence, the AI business formerly known as xAI, has released Grok Voice 3.0, a speech-to-speech model it calls the most intelligent voice model available.\n\nIn independent testing by Artificial Analysis, the model scored 86.9 on the Speech-to-Speech Index, ahead of rival models from OpenAI and Google, and 97% on Full Duplex Bench, which measures how naturally it handles pauses and interruptions. Response latency is under one second.\n\n## Already in heavy use\n\nThe company says Grok Voice handles millions of conversations a day in Tesla vehicles, where drivers can ask it to check calendars, answer email or hand bigger jobs to Grok Bot. Starlink's call centres use it to answer around 20,000 customer calls a day in several languages, with roughly 70% resolved without a human.\n\nGrok Voice 3.0 is available now in the API at $0.08 per minute, unchanged from version 2.0. Apps already pointing to the latest model were switched over automatically.",
+      "imageUrl": "https://media.x.ai/v1/website/og-grok-voice-3-0-b281361b.webp",
+      "source": "SpaceXSI (x.ai)",
+      "url": "https://x.ai/news/grok-voice-3",
+      "publishedAt": "2026-10-14T00:00:00Z",
+      "tags": [
+        "grok",
+        "voice",
+        "api"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "ca06a4e7439a",
+      "company": "xai",
+      "title": "SpaceXSI bundles Grok, Grok Bot, Cursor and X Premium into one plan",
+      "summary": "The X Subscription combines SpaceX's AI and social products in tiers from free to $200 a month, with shared AI usage across Grok and Cursor.",
+      "body": "SpaceX Super Intelligence has launched The X Subscription, a single plan that bundles Grok, Grok Bot, the Cursor coding tools and X Premium.\n\nThere are five tiers: Free, Plus at $8 a month, Premium at $30, Super at $100 and Ultra at $200. Usage limits rise with each tier, and paid plans share a pool of Grok model usage across the Grok apps, the Grok tab on X and Cursor. The company says Premium covers what previously cost about $90 a month for SuperGrok, Cursor Pro and X Premium+ combined. Premium or higher is needed for the newest Grok models.\n\nThe bundle is available to new customers now and is rolling out gradually to existing SuperGrok, Cursor and X Premium subscribers, who can switch in their billing settings and receive a prorated refund, or keep their current plan.\n\nThe move is aimed at winning subscribers in a crowded paid-AI market where the company competes with OpenAI, Anthropic and others.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/07/x-twitter.jpg?resize=1200,550",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+      "publishedAt": "2026-10-13T13:50:19Z",
+      "tags": [
+        "grok",
+        "cursor",
+        "subscription",
+        "pricing"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "e5bd374fbb36",
+      "company": "starlink",
+      "title": "Starlink Mobile buys 800 MHz spectrum as FCC approves 15,000-satellite constellation",
+      "summary": "SpaceX agreed to acquire nationwide 800 MHz low-band spectrum for Starlink Mobile, and the FCC authorised its next-generation 15,000-satellite direct-to-phone constellation.",
+      "body": "SpaceX announced two milestones for Starlink Mobile, its effort to become a full mobile carrier in the United States.\n\nFirst, it agreed to acquire a nationwide portfolio of up to 14 megahertz of paired spectrum in the 800 MHz band. Low-band spectrum travels further and penetrates walls better, so it can keep phones connected indoors. SpaceX notes that most existing phones already support the band. The deal is expected to close in the first half of 2027, subject to FCC approval.\n\nSecond, the FCC approved Starlink Mobile's Gen2 constellation, authorising up to 15,000 satellites optimised for 2 GHz spectrum worldwide. SpaceX says these V2 satellites will offer more than 100 times the bandwidth of the current generation, connecting unmodified phones almost anywhere. The FCC also cleared the backhaul bands used by Starlink's V3 broadband satellites.\n\nSpaceX plans to combine satellites and ground-based networks, which it says would make Starlink Mobile the first operator to deploy both satellite and terrestrial spectrum on one network.",
+      "imageUrl": null,
+      "source": "SpaceX",
+      "url": "https://www.spacex.com/updates/",
+      "publishedAt": "2026-10-08T12:00:00Z",
+      "tags": [
+        "starlink-mobile",
+        "spectrum",
+        "fcc",
+        "direct-to-cell"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "5aef500e533d",
+      "company": "tesla",
+      "title": "Tesla delivers 486,532 vehicles in Q3 2026",
+      "summary": "Tesla produced 464,391 vehicles and delivered 486,532 in the third quarter, and deployed 13.7 GWh of energy storage.",
+      "body": "Tesla delivered 486,532 vehicles in the third quarter of 2026 and produced 464,391, according to its quarterly production and deliveries report.\n\nThe Model 3 and Model Y made up the bulk of the numbers, with 478,237 deliveries and 457,387 units produced. Other models, including the Cybertruck, contributed 8,295 deliveries and 7,004 units produced. Deliveries outpacing production means Tesla drew down some of its inventory during the quarter.\n\nThe energy business deployed 13.7 gigawatt-hours of storage products such as Megapack and Powerwall.\n\nTesla later said in its earnings report that vehicle deliveries were lower than a year earlier and that battery supply limited how many cars it could build to meet its order backlog.",
+      "imageUrl": null,
+      "source": "Tesla Investor Relations",
+      "url": "https://ir.tesla.com/press-release/tesla-third-quarter-2026-production-deliveries-and-deployments",
+      "publishedAt": "2026-10-02T13:00:00Z",
+      "tags": [
+        "deliveries",
+        "q3-2026",
+        "energy-storage"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "57473f7feb53",
+      "company": "boring",
+      "title": "Music City Loop: two tunnel boring machines now digging in Nashville",
+      "summary": "The Boring Company says Prufrock-MB1 and MB2 are tunnelling at the same time, MB3 launches in late October and MB4 is being built.",
+      "body": "The Boring Company's latest Music City Loop update says two tunnel boring machines, Prufrock-MB1 and Prufrock-MB2, are now digging at the same time in Nashville, all supported from a site of less than one acre.\n\nA third machine, Prufrock-MB3, is set to launch in late October from a new site where the launch pit, power supply and support systems are being prepared. A fourth, MB4, is under construction, and the team aims to have four machines in the ground before the end of the year. The company says it has made more than 300 upgrades to MB1 alone, all of which carry over to later machines.\n\n## Stations and approvals\n\nAll permits needed ahead of tunnelling have been obtained, including a Tennessee Department of Transportation permit covering 25 miles of tunnel. The airport authority and the convention centre authority have both approved connections, and more than 40 stations are in planning, including agreements with residential towers and the JW Marriott downtown.\n\nThe Music City Loop is planned to carry paying passengers in Tesla vehicles between downtown Nashville and the airport.",
+      "imageUrl": "https://boringcompany.com/assets/og-image.jpg",
+      "source": "The Boring Company",
+      "url": "https://boringcompany.com/blogoct2026",
+      "publishedAt": "2026-10-01T12:00:00Z",
+      "tags": [
+        "music-city-loop",
+        "nashville",
+        "tunnelling"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "8fd8ec9af923",
+      "company": "neuralink",
+      "title": "Neuralink trains a foundation model on 50,000 hours of brain data",
+      "summary": "Neuralink says implant users have logged over 50,000 hours, and a model pretrained on that data cut calibration for some users from daily to weekly.",
+      "body": "Neuralink says participants in its clinical trials have now used their brain implants for more than 50,000 hours, creating one of the largest datasets of recorded neural activity from inside the brain.\n\nThe company used that data to pretrain what it calls a foundation model for brain-computer interfaces: self-supervised encoders that turn noisy, shifting neural signals into stable representations.\n\n## Early results\n\nAccording to Neuralink, decoders built on the model keep working for weeks instead of days. For some users, the calibration needed fell from about 10 minutes a day to 10 minutes a week. The company also showed cursors that jump directly to the intended target, and reported a new cursor-control record of 11.32 bits per second, which it says beats most able-bodied people.\n\nNeuralink says next steps include pooling data across participants, calibration with one example or none at all, and an interface for developers to build on motor-cortex signals.",
+      "imageUrl": "https://content.neuralink.com/images/updates/pretraining-on-50000-hours/pretraining-on-50000-hours-preview.png",
+      "source": "Neuralink",
+      "url": "https://neuralink.com/updates/pretraining-on-50000-hours/",
+      "publishedAt": "2026-10-01T00:00:00Z",
+      "tags": [
+        "bci",
+        "ai",
+        "clinical-trial"
+      ],
+      "importance": 2
+    }
+  ],
+  "progress": [
+    {
+      "id": "spacex-starship-flight-15",
+      "company": "spacex",
+      "project": "Starship Flight 15",
+      "status": "Preparing for launch",
+      "detail": "Booster 22 completed a full-duration 33-engine static fire on Oct 25; Ship 42 still needs its static fire and final checks. Tentative FAA date Nov 8; SpaceX will attempt to catch both booster and ship.",
+      "percentComplete": null,
+      "updatedAt": "2026-10-26T16:00:00Z",
+      "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-ignites-giant-super-heavy-booster-engines-ahead-of-daring-starship-launch-video"
+    },
+    {
+      "id": "spacex-starship-flight-16",
+      "company": "spacex",
+      "project": "Starship Flight 16 (LC-39A)",
+      "status": "Planned",
+      "detail": "Targeted for December (tentative FAA date Dec 10); could be the first Starship launch from Launch Complex 39A in Florida.",
+      "percentComplete": null,
+      "updatedAt": "2026-10-18T16:31:04Z",
+      "sourceUrl": "https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/"
+    },
+    {
+      "id": "spacex-starbase-louisiana",
+      "company": "spacex",
+      "project": "Starbase, Louisiana",
+      "status": "Announced",
+      "detail": "Next-generation spaceport designed for thousands of Starship flights a year; first launch targeted for 2029.",
+      "percentComplete": null,
+      "updatedAt": "2026-10-20T20:00:00Z",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm"
+    },
+    {
+      "id": "xai-colossus-2",
+      "company": "xai",
+      "project": "Colossus 2",
+      "status": "Expanding",
+      "detail": "SpaceX's nameplate compute reached 1.7 GW on Sep 30, 2026 (up from 1.4 GW in June) as the Colossus II build-out continues.",
+      "percentComplete": null,
+      "updatedAt": "2026-10-20T20:00:00Z",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm"
+    },
+    {
+      "id": "tesla-optimus-fremont",
+      "company": "tesla",
+      "project": "Optimus line, Fremont",
+      "status": "Production started",
+      "detail": "First production-quality Optimus robots coming off the Fremont line; Musk expects key design, reliability and AI issues solved around end of 2027.",
+      "percentComplete": null,
+      "updatedAt": "2026-10-21T20:33:09Z",
+      "sourceUrl": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/"
+    },
+    {
+      "id": "tesla-cybercab-rollout",
+      "company": "tesla",
+      "project": "Cybercab roll-out",
+      "status": "Operating in Austin",
+      "detail": "Dallas launch planned next month, more cities by year-end, sales to fleet operators by year-end; NHTSA investigation into FMVSS certification ongoing.",
+      "percentComplete": null,
+      "updatedAt": "2026-10-22T15:44:39Z",
+      "sourceUrl": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/"
+    },
+    {
+      "id": "boring-music-city-loop",
+      "company": "boring",
+      "project": "Music City Loop, Nashville",
+      "status": "Tunnelling",
+      "detail": "Prufrock-MB1 and MB2 tunnelling simultaneously; MB3 launching late October; MB4 under construction. All pre-tunnelling permits obtained; 40+ stations in planning.",
+      "percentComplete": null,
+      "updatedAt": "2026-10-01T12:00:00Z",
+      "sourceUrl": "https://boringcompany.com/blogoct2026"
+    },
+    {
+      "id": "starlink-mobile-gen2",
+      "company": "starlink",
+      "project": "Starlink Mobile Gen2 constellation",
+      "status": "FCC approved",
+      "detail": "FCC authorised up to 15,000 V2 direct-to-cell satellites; 800 MHz spectrum acquisition expected to close in H1 2027.",
+      "percentComplete": null,
+      "updatedAt": "2026-10-08T12:00:00Z",
+      "sourceUrl": "https://www.spacex.com/updates/"
+    }
+  ],
+  "financials": [
+    {
+      "company": "tesla",
+      "period": "Q3 2026",
+      "revenue": 28046000000,
+      "revenueCurrency": "USD",
+      "netIncome": 787000000,
+      "deliveries": 486532,
+      "reportedAt": "2026-10-21T20:05:00Z",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026066775/tsla-20260930.htm"
+    },
+    {
+      "company": "spacex",
+      "period": "Q3 2026",
+      "revenue": 14575000000,
+      "revenueCurrency": "USD",
+      "netIncome": 4404000000,
+      "deliveries": null,
+      "reportedAt": "2026-10-20T20:00:00Z",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm"
+    }
+  ]
 }
