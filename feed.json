@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T17:37:08Z",
+  "generatedAt": "2026-10-28T17:39:41Z",
   "news": [
     {
       "id": "5327b236ed829588",
@@ -566,25 +566,6 @@
       "importance": 2
     },
     {
-      "id": "dc9ac0e2201cca86",
-      "company": "tesla",
-      "title": "Tesla Q3 2026 Earnings Highlight Margin Recovery and FSD Subscriptions",
-      "summary": "Tesla's Q3 2026 financial results show margin recovery, but profit still declined, with FSD subscriptions reaching 1.74 million.",
-      "body": "Tesla released its Q3 2026 financial results, indicating a rebound in margins despite a decline in overall profit. The company attributed flat sales to battery supply issues, while its prices continue to fall. FSD 'subscriptions' reached 1.74 million, a figure counted in a manner aligned with Elon Musk's pay package structure. However, Tesla's energy revenue dropped 16% due to customer refunds related to tariffs. The company also pushed back the unsupervised FSD rollout to Q2 2027, limited to Robotaxi zones. Additionally, Tesla quietly reduced its 2026 capital expenditure guidance to $20 billion. The company also delayed Optimus deliveries to late 2027, citing ongoing challenges with hand functionality. Tesla now claims it needs its own maps for FSD, reversing years of dismissing the importance of mapping technology. During its earnings call, Tesla skipped addressing a significant shareholder question, drawing attention to its communication strategy. Meanwhile, other developments in the EV space include BYD's new Seagull EV with 5-minute Flash Charging, starting under $10,000, and the 2027 Ford Mustang Mach-E gaining a standard long-range battery with a starting price of $40,000. Volvo is also set to launch a lower-priced EV in 2027 based on its SPA3 platform. Huawei’s car unit has joined CATL’s 2,520-station battery swap network, further expanding the EV charging infrastructure.",
-      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&strip=all&resize=1200,628",
-      "source": "Electrek",
-      "url": "https://electrek.co/2026/10/23/podcast-tesla-earnings-discussion-new-byd-seagull-mustang-mach-e-update-and-more/",
-      "publishedAt": "2026-10-23T19:47:02Z",
-      "tags": [
-        "tesla",
-        "q3 earnings",
-        "f sd",
-        "battery supply",
-        "optimus"
-      ],
-      "importance": 2
-    },
-    {
       "id": "4384c593f7250ea8",
       "company": "tesla",
       "title": "Tesla cancels Cybertruck in Australia and NZ after 7 years of deposits",
@@ -621,24 +602,6 @@
         "project crystal sun"
       ],
       "importance": 3
-    },
-    {
-      "id": "3556e7d022b5",
-      "company": "spacex",
-      "title": "Merger talk dominates after SpaceX and Tesla earnings",
-      "summary": "Investors and analysts are focusing on a possible SpaceX-Tesla combination after both companies reported quarterly results this week.",
-      "body": "A possible merger between SpaceX and Tesla has become the main talking point for investors following the two companies' third-quarter reports.\n\nOn SpaceX's earnings call on October 20, Elon Musk said he thinks combining the companies would be a good idea and confirmed that both boards have formed special committees of independent directors to study a deal. He stressed that no terms have been agreed and that a merger is far from certain.\n\nMusk opened Tesla's own call the next day by addressing the topic again, but did not add new details. As CEO and the largest individual shareholder of both companies, he is a conflicted party and says he cannot take part in the committees' discussions.\n\nAny transaction would need shareholder approval and regulatory clearance. Musk has pointed out that Tesla would need support from a majority of all outstanding shares, not just those voting, which is a higher bar than at SpaceX, where he controls more than half of the voting power.",
-      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108441933-1792588782445-gettyimages-2301241048-vcg111675843076.jpeg?v=1792588817&w=1920&h=1080",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/23/spacex-tesla-merger-chatter-takes-center-stage-after-earnings.html",
-      "publishedAt": "2026-10-23T11:00:01Z",
-      "tags": [
-        "merger",
-        "tesla",
-        "spcx",
-        "tsla"
-      ],
-      "importance": 2
     },
     {
       "id": "7fc19b5dc05c",
@@ -883,25 +846,6 @@
       "importance": 2
     },
     {
-      "id": "cd40eef1af734964",
-      "company": "tesla",
-      "title": "Tesla Q3 2026 Results: Margins Improve, Profit Still Falls",
-      "summary": "Tesla reported flat revenue and improved margins in Q3 2026, but profit declined due to increased spending on AI and Optimus.",
-      "body": "Tesla (TSLA) released its Q3 2026 financial results, showing revenue of $28.05 billion, in line with Wall Street expectations. Non-GAAP earnings per share came in at $0.48, beating the consensus but still down 4% from the previous year. The company’s total gross margin improved to 19.6%, up from 18.0% a year ago, but operating income fell 56% year-over-year to $718 million. This decline was attributed to increased spending on AI and Optimus projects, which outpaced the growth in gross profit.\n\nOperating expenses rose 39% year-over-year to $4.78 billion, driven largely by a 69% increase in research and development costs to $2.76 billion. This spending was directed toward Tesla’s “Super Intelligence” (SI) initiatives, Optimus, and the Cybercab. Stock-based compensation also surged to $1.17 billion, up from $663 million in the previous year. Capital spending reached $4.73 billion, more than double the $2.25 billion from the same period in 2025, though free cash flow dropped to $1.53 billion from $3.99 billion a year ago.\n\nTesla noted that battery availability was a limiting factor in increasing vehicle deliveries, with the company ending the quarter with the largest backlog for passenger vehicles in four years. Deliveries totaled 486,532 vehicles, a 2.1% year-over-year decline. Energy generation and storage revenue fell 16% to $2.88 billion, partly due to tariff-related customer refunds. However, the services and other segment saw a 33% revenue increase to $4.61 billion, with gross profit reaching a record $734 million.\n\nDespite the improved gross margin, Tesla’s operating margin dropped to 2.6%, down from 5.8% a year ago. The company ended the quarter with $45.4 billion in cash and investments. Free cash flow was positively impacted by lower capital spending compared to Q2, but the company is still far from its $25 billion annual capital expenditure guidance, with a significant portion of that expected to be spent in Q4.\n\nTesla’s Q3 results highlight the challenges of balancing innovation with profitability, as the company continues to invest heavily in future technologies while managing short-term financial performance.",
-      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Tesla-Q3-2026-earnings.jpg?quality=82&strip=all&resize=1200,628",
-      "source": "Electrek",
-      "url": "https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/",
-      "publishedAt": "2026-10-21T20:08:17Z",
-      "tags": [
-        "tesla",
-        "financials",
-        "q3",
-        "profit",
-        "ai"
-      ],
-      "importance": 3
-    },
-    {
       "id": "441e00918c21",
       "company": "tesla",
       "title": "Tesla Q3 2026: revenue flat at $28.0 billion, profit down sharply",
@@ -915,25 +859,6 @@
         "earnings",
         "q3-2026",
         "tsla"
-      ],
-      "importance": 3
-    },
-    {
-      "id": "4492c437ca1409d7",
-      "company": "tesla",
-      "title": "Tesla and SpaceX explore merger, raising shareholder concerns",
-      "summary": "Tesla and SpaceX have formed special committees to explore a potential merger, which could dilute shareholder value and impact retirement portfolios.",
-      "body": "Tesla and SpaceX have both established special committees within their corporate boards to explore the possibility of merging the two companies, according to Elon Musk, who serves as CEO of both. The merger could have significant implications for shareholders of both companies, as well as for individuals with exposure to major stock indices through retirement funds.\n\nThe possibility of a merger has been speculated for years, but Musk has recently taken concrete steps to move the discussion forward. During SpaceX’s quarterly earnings call, Musk confirmed that both companies are formally reviewing the merger. This comes after Musk has long expressed frustration with the constraints of being a public company, particularly at Tesla, where his ownership stake has been diluted over time.\n\nMusk has previously sought to increase his control over Tesla by securing a controversial pay package that included stock grants. If the merger proceeds, similar financial strategies could be used to further consolidate his power. The pay package included provisions that would automatically deliver shares to Musk in the event of a merger, regardless of operational milestones.\n\nThe merger would require approval from both companies’ shareholders. For SpaceX, Musk controls more than 50% of the voting shares, making the approval process more straightforward. However, for Tesla, the vote could be more complex due to the large number of retail shareholders and the potential use of an automatic voting procedure that aligns with board recommendations.\n\nThe potential merger has raised concerns about the impact on retirement portfolios, as both companies are major components of stock indices. If the merger dilutes shareholder value, it could affect the returns of retirement funds that hold shares in these companies.\n\nThis would not be the first time Musk has used strategic moves to benefit himself at the expense of shareholders. In 2016, he facilitated the acquisition of SolarCity by Tesla, which involved absorbing the company’s debt. Similar concerns are now being raised about the potential merger between Tesla and SpaceX.",
-      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2024/11/Elon-Musk-Game-of-Thrones.webp?resize=1200,628",
-      "source": "Electrek",
-      "url": "https://electrek.co/2026/10/20/tesla-and-spacex-take-first-step-towards-merger-would-dilute-all-shareholders/",
-      "publishedAt": "2026-10-21T03:14:40Z",
-      "tags": [
-        "tesla",
-        "spacex",
-        "merger",
-        "shareholders",
-        "elonmusk"
       ],
       "importance": 3
     },
@@ -952,25 +877,6 @@
         "tesla",
         "spcx",
         "governance"
-      ],
-      "importance": 3
-    },
-    {
-      "id": "a0a88767bc69ce71",
-      "company": "tesla",
-      "title": "Tesla Q3 2026 Earnings Preview: Flat Revenue, Falling Profits",
-      "summary": "Tesla is set to report flat Q3 2026 revenue and a 10% drop in earnings per share, despite exceeding delivery expectations.",
-      "body": "Tesla will release its third-quarter 2026 financial results on October 21, following the market close. The earnings call is scheduled for 5:30 p.m. ET. Analysts expect revenue to remain flat compared to the previous year, with earnings per share projected to decline by 10% year-over-year. This comes despite Tesla delivering 486,532 vehicles in Q3, surpassing the 461,974-unit consensus by over 24,000 units.\n\nThe company's delivery numbers show a 2.1% decline from its Q3 2025 record of 497,099 units. However, Tesla delivered more vehicles than it produced, reducing inventory for the second consecutive quarter. The Model 3 and Model Y accounted for the majority of deliveries, while other models, including the Cybertruck, Semi, and Model S and X, saw a 48% year-over-year drop.\n\nEnergy storage deployment also fell short of expectations, with Tesla deploying 13.7 GWh in Q3, below the 15.9 GWh analysts anticipated. This marks a decline from the 14.2 GWh record set in Q4 2025. Revenue is expected to remain flat at around $28.06 billion, despite the absence of a federal tax credit that had boosted Q3 2025 results.\n\nEarnings per share are projected to fall to $0.45, a 10% decrease from $0.50 in the same period last year. Tesla's operating margin dropped to 1.4% in Q2, and its free cash flow turned negative, with capital expenditures exceeding $5.8 billion. Investors are closely watching Tesla's ability to maintain margins and manage spending on AI, Optimus, and Cybercab projects.\n\nShareholders are focusing on questions about the regulatory path for the Cybercab, the timeline for fully autonomous driving, and the cost of Optimus units. Despite these concerns, Tesla's stock has remained resilient, with investors betting on future growth despite current financial challenges.",
-      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2016/03/img_1665-e1457955946161.jpg?quality=82&strip=all&resize=1200,628",
-      "source": "Electrek",
-      "url": "https://electrek.co/2026/10/20/tesla-tsla-q3-2026-earnings-preview/",
-      "publishedAt": "2026-10-20T20:13:48Z",
-      "tags": [
-        "tesla",
-        "earnings",
-        "revenue",
-        "profits",
-        "q3"
       ],
       "importance": 3
     },
@@ -1029,25 +935,6 @@
         "delays"
       ],
       "importance": 2
-    },
-    {
-      "id": "c72190d03cc3a116",
-      "company": "spacex",
-      "title": "Tesla Proxy Shows Board Preparing for SpaceX Merger",
-      "summary": "Tesla's 2026 proxy filing reveals board members now serving on SpaceX's board, suggesting preparations for a potential merger between the two companies.",
-      "body": "Tesla’s proxy for its 2026 annual meeting, filed recently, reveals that Ira Ehrenpreis, who chairs Tesla’s compensation and governance committees, has joined SpaceX’s board. This development aligns with ongoing speculation about a potential merger between Tesla and SpaceX. The filing includes details that suggest the board is positioning itself for such a deal, including a three-item ballot and an auto-voting program for future shareholder votes.\n\nThe 2026 annual meeting is scheduled for December 3 at Gigafactory Texas. Shareholders will vote on re-electing key board members, a non-binding say-on-pay vote, and ratifying PwC as Tesla’s auditor. Notably, no shareholder proposals made the ballot this year, unlike last year when one requested investment in xAI, which was later absorbed by SpaceX.\n\nThe board has also decided not to revisit proposals to declassify itself or remove Tesla’s supermajority voting requirements. A 2025 attempt to declassify the board failed to gain enough support, and the staggered board structure will remain in place until 2029. Robyn Denholm, Tesla’s board chair, emphasized the importance of a steady leadership during a time of rapid technological change.\n\nMusk’s 2025 compensation package, valued at $158 billion, includes stock-based awards that could be triggered by a change in control, such as a merger. The proxy filing outlines how Musk’s pay would be affected under different scenarios, including a potential Tesla-SpaceX merger. The auto-vote program, which allows retail shareholders to automatically support the board’s positions, is set to launch at the next shareholder meeting.\n\nThree of Tesla’s nine directors are also affiliated with SpaceX, including Elon Musk and his brother Kimbal Musk. Tesla’s investment in xAI has been converted into SpaceX stock, and the company generates revenue from both SpaceX and xAI. Musk has stated that any merger would need to be done through the appropriate process, though critics argue the board is already aligned with SpaceX interests.\n\nThe potential merger raises concerns about the independence of Tesla’s board, which is increasingly tied to SpaceX. With Musk controlling significant voting power in both companies, the outcome of any deal would likely benefit him personally. The auto-vote program and the board’s structure suggest that Tesla shareholders may have limited influence over major decisions, including a potential merger with SpaceX.",
-      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/01/Elon-Musk-self-dealing-Tesla-Spa.jpg?quality=82&strip=all&resize=1200,628",
-      "source": "Electrek",
-      "url": "https://electrek.co/2026/10/19/tesla-tsla-proxy-annual-meeting-spacex-merger/",
-      "publishedAt": "2026-10-19T14:07:33Z",
-      "tags": [
-        "spacex",
-        "tesla",
-        "merger",
-        "board",
-        "musk"
-      ],
-      "importance": 3
     },
     {
       "id": "30f88eef5268",
