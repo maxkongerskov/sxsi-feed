@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T17:39:41Z",
+  "generatedAt": "2026-10-28T17:39:51Z",
   "news": [
     {
       "id": "5327b236ed829588",
@@ -951,6 +951,25 @@
         "flight-15",
         "flight-16",
         "lc-39a"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "0c849cd30b95b294",
+      "company": "tesla",
+      "title": "Tesla Unveils New Roadster with Flying Features in Electrek Podcast",
+      "summary": "Tesla unveiled a new Roadster with flying capabilities during a recent Electrek Podcast, sparking discussion about its feasibility and regulatory requirements.",
+      "body": "Tesla has unveiled a new version of its Roadster, featuring flying capabilities, during a recent episode of the Electrek Podcast. The discussion centered around the potential of the flying Roadster and whether its claims are realistic or exaggerated. The podcast also covered other topics related to sustainable transport and energy, including updates on Tesla’s Autopilot system and other electric vehicle developments.\n\nThe new Roadster, described as 'Cyberfied,' includes features such as the ability to kickflip, according to the articles to be discussed during the episode. However, the feasibility of the flying Roadster remains a topic of debate, with some questioning whether it is based on real technology or just 'cold gas' hype.\n\nOne top comment from listener Rob Barros suggested that if the flying Roadster ever reaches production, it should not be allowed to operate in the same airspace as ground-based transportation. He also emphasized the need for FAA licensure for such vehicles. This highlights the potential regulatory challenges that Tesla may face with its new flying Roadster.\n\nThe podcast is live every Friday at 4 p.m. ET on Electrek’s YouTube channel, with an accompanying post on the site. After the show, the video is archived on YouTube, and the audio is available on popular podcast apps. Electrek also announced a Patreon to help support the show and reduce ads.\n\nOther topics discussed during the episode included Tesla’s Autopilot system, which was engaged when a car crossed a median and killed a man. The podcast also covered updates on the Smart #2 electric vehicle, Rivian’s Mind Robotics, and Volkswagen’s new ID. Buzz.",
+      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Tesla-Roadster-kick-flips-through-the-air.jpeg?quality=82&strip=all&resize=1200,628",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/16/podcast-the-tesla-roadster-episode/",
+      "publishedAt": "2026-10-16T19:51:39Z",
+      "tags": [
+        "tesla",
+        "roadster",
+        "autopilot",
+        "flying car",
+        "electrek"
       ],
       "importance": 2
     },
