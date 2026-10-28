@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T17:39:51Z",
+  "generatedAt": "2026-10-28T17:40:45Z",
   "news": [
     {
       "id": "5327b236ed829588",
@@ -1024,6 +1024,25 @@
       "tags": [
         "roadster",
         "product-launch"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "7071378f10583f6e",
+      "company": "tesla",
+      "title": "Tesla Robotaxi crashes linked to remote operators, data reveals",
+      "summary": "Tesla's Robotaxi service has seen five crashes involving remote operators taking control, all resulting in collisions, according to recent federal data.",
+      "body": "Tesla’s latest crash reports to federal regulators reveal that two additional Robotaxi incidents involved remote operators taking control of the vehicle, leading to collisions. This brings the total number of such crashes to five, with every remote takeover resulting in a collision.\n\nBoth new incidents occurred in August and were included in the National Highway Traffic Safety Administration’s (NHTSA) September release of Standing General Order data. Tesla now has 36 unique Robotaxi incident reports, up from 22 in July. In one case, a Model Y was stopped on a residential street, wedged between a concrete mixer truck and a parked SUV. A remote operator took control and the vehicle made contact with the SUV at approximately 0.40 mph. No passengers were aboard.\n\nIn another incident in Austin, a remote operator was in control of a Model Y navigating an alley. The vehicle hit a dumpster at about 1 mph. Both incidents involved property damage only and were at walking speeds. Tesla’s structured code for the Driver/Operator Type in both cases was labeled “Remote (Commercial / Test).”\n\nThe pattern of crashes follows a similar script: the autonomous system gets stuck or needs assistance, a human takes over remotely, and the human causes a collision. Tesla has not disclosed how often remote operators intervene, making it impossible to calculate a rate. However, all five known remote takeovers have resulted in contact.\n\nWaymo, Tesla’s main robotaxi competitor, has a different approach. In a February 2026 letter to Senator Ed Markey, Waymo stated it does not use remote driving where a human performs the Dynamic Driving Task. Instead, remote staff provide guidance that the vehicle can accept or reject. Waymo has one narrow exception, allowing a trained agent to nudge a stuck vehicle forward at 2 mph with fixed steering angles, but this has never been used on public roads.\n\nThe data highlights the risks associated with remote teleoperation, including latency and limited situational awareness for the operator. Experts suggest that giving riders a control stick or providing supplemental guidance to the onboard system may be safer alternatives.",
+      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&strip=all&resize=1200,628",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/15/tesla-remote-operators-crashing-robotaxis/",
+      "publishedAt": "2026-10-15T16:39:08Z",
+      "tags": [
+        "robotaxi",
+        "tesla",
+        "remoteoperation",
+        "crashdata",
+        "autonomousdriving"
       ],
       "importance": 2
     },
