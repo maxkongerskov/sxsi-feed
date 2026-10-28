@@ -135,44 +135,6 @@
       "importance": 2
     },
     {
-      "id": "ce7f79140c67157b",
-      "company": "spacex",
-      "title": "Musk's PAC lawyer runs in Texas district with SpaceX and Tesla interests",
-      "summary": "Chris Gober, a former lawyer for Elon Musk's America PAC, is running for Congress in Texas' 10th District, which includes parts of SpaceX and Tesla's operations.",
-      "body": "Chris Gober, a former director and top lawyer for Elon Musk's America PAC, is running for a seat in the U.S. House of Representatives in Texas' 10th District. This district includes parts of the Terafab, a large artificial intelligence chip factory being built by SpaceX and Tesla, as well as offices for The Boring Company, Musk's tunneling venture. Gober is not emphasizing his connection to Musk in his campaign, but his Democratic opponent, Caitlin Rourk, has highlighted it in attack ads.\n\nGober's campaign website features an endorsement from former President Donald Trump and emphasizes support for the America First Agenda. However, Musk's name and the America PAC are not prominently featured on the site, which was recently updated to focus on local issues. SpaceX's political action committee has donated $10,000 to Gober's campaign this election cycle, according to Federal Election Commission filings.\n\nSpaceX has seen significant growth in its AI segment, with third-quarter revenue surging to $7.56 billion in 2026, a ninefold increase from the previous year. Gober's campaign previously included a section titled 'Ensuring America's AI Dominance,' but it was removed amid opposition to data centers used for AI. Gober claims the removal does not reflect a change in his stance on AI development.\n\nRourk has criticized Gober's ties to the AI industry and Musk, citing concerns about potential conflicts of interest if he were to serve in Congress. She also accused Gober of attempting to downplay his background. Gober, however, maintains that he will prioritize the interests of his constituents and has stated he will withdraw from all ongoing legal work if elected to Congress.\n\nThe influence of Musk on the race remains uncertain. Polling suggests that Musk is viewed favorably by Republicans but unfavorably by Democrats. Whether this association will benefit or hinder Gober's campaign is still to be determined.",
-      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108448671-1792703215956-Trump-26281054441770-AP.jpg?v=1792703311&amp;w=1920&amp;h=1080",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/28/elon-musk-chris-gober-rourk-texas-10th-congress-election.html",
-      "publishedAt": "2026-10-28T10:00:01Z",
-      "tags": [
-        "spacex",
-        "politics",
-        "texas",
-        "ai",
-        "elections"
-      ],
-      "importance": 2
-    },
-    {
-      "id": "5bbcecbd5c5d0b75",
-      "company": "spacex",
-      "title": "Musk’s Tesla-SpaceX Merger Would Formalize a Decadeslong Partnership",
-      "summary": "Elon Musk's potential merger of Tesla and SpaceX could mark a significant step in consolidating his business interests under one entity.",
-      "body": "Elon Musk has long been the driving force behind both Tesla and SpaceX, but a potential merger of the two companies would represent a major shift in how his ventures are structured. The move would formalize a decadeslong partnership between the two companies, which have operated independently but with overlapping goals and resources. This merger could streamline operations, reduce redundancies, and allow for greater synergy between the automotive and aerospace sectors. However, the implications of such a merger would be far-reaching, affecting not only the companies involved but also the broader industries they operate in. Regulatory hurdles and shareholder concerns would need to be addressed before any such move could be finalized. The merger would also raise questions about how Musk’s leadership style would be applied across both companies. While the details of the potential merger remain unclear, the possibility has sparked interest among investors and industry analysts. Musk has previously expressed his vision of integrating his companies to achieve long-term goals, including interplanetary travel and sustainable energy solutions. This potential merger could be a step toward realizing that vision. The companies have already collaborated on several projects, including the use of Tesla batteries in SpaceX operations. A merger would likely accelerate such collaborations and expand their scope. However, it would also require careful planning to ensure that both companies maintain their unique identities and market positions. The outcome of this potential merger will depend on a variety of factors, including regulatory approval, market conditions, and the strategic direction of both companies.",
-      "imageUrl": null,
-      "source": "WSJ",
-      "url": "https://www.wsj.com/business/musks-tesla-spacex-merger-would-formalize-a-decadeslong-partnership-3b83e542",
-      "publishedAt": "2026-10-28T09:08:07Z",
-      "tags": [
-        "spacex",
-        "tesla",
-        "merger",
-        "elonmusk",
-        "business"
-      ],
-      "importance": 3
-    },
-    {
       "id": "fdf86f34981667e4",
       "company": "tesla",
       "title": "Tesla’s Cybercab battery design could make robotaxis even cheaper",
@@ -188,44 +150,6 @@
         "robotaxi",
         "battery",
         "lfp"
-      ],
-      "importance": 2
-    },
-    {
-      "id": "cdf1df118bb90dd6",
-      "company": "spacex",
-      "title": "Indian investors flock to U.S. stocks including SpaceX as access expands",
-      "summary": "Indian retail investors are increasingly turning to U.S. stocks, including SpaceX, as local trading platforms expand access to global markets.",
-      "body": "Indian retail investors are showing growing interest in U.S. stocks, including companies like SpaceX, as major investment platforms in the country expand access to global markets. This shift comes amid the underperformance of India's domestic stock market and increased demand for exposure to global tech firms.\n\nPreviously, access to U.S. stocks was limited to wealthier investors through global banks and wealth management firms. Now, platforms like Groww, Zerodha, and Angel One are enabling millions of retail investors to trade in U.S. equities, exchange-traded funds, and even fractional shares. SpaceX, along with companies like NVIDIA, Apple, and Alphabet, has emerged as a top choice for early adopters.\n\nThe Indian stock market has struggled, with the Nifty 50 index falling nearly 13% since the start of the year, while the S&P 500 has risen over 12%. This performance gap, combined with the lack of major AI champions in India, has driven investors to seek opportunities abroad. The depreciation of the Indian rupee against the U.S. dollar has also encouraged investors to diversify their portfolios into foreign currencies.\n\nExperts note that the trend reflects a broader shift in investor behavior, with more Indians prioritizing investments over spending abroad. However, concerns remain about the potential impact of large-scale retail outflows on India's currency and markets, especially during periods of economic vulnerability.\n\nAs participation grows, regulators may reconsider the expansion of U.S. stock access to retail investors, according to some analysts. For now, the surge in interest highlights the growing appetite for global assets among Indian investors.",
-      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108467546-1793083979300-gettyimages-2286903422-avdjuly26lot2j.jpeg?v=1793083990&amp;w=1920&amp;h=1080",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html",
-      "publishedAt": "2026-10-28T00:00:00Z",
-      "tags": [
-        "spacex",
-        "investors",
-        "india",
-        "u.s. stocks",
-        "retail trading"
-      ],
-      "importance": 2
-    },
-    {
-      "id": "e943d5daba2e987a",
-      "company": "starlink",
-      "title": "Jio's Valuation Offers Lessons for Global Tech Giants in India",
-      "summary": "Jio Platforms' $107 billion valuation highlights strategic alignment with India's government priorities, offering insights for global tech players like Starlink.",
-      "body": "Jio Platforms Ltd. is set to begin trading with a valuation of $107 billion, marking a significant milestone for Mukesh Ambani’s digital ambitions. This valuation reflects not only Ambani’s vision for affordable data to drive India’s digital economy but also the backing of major global tech firms like Google and Meta. The Indian government, under Prime Minister Narendra Modi, has been a key enabler of this digital transformation, emphasizing strategic priorities that align with private sector initiatives.\n\nFor global companies like Starlink, which aims to provide satellite broadband in India, the success of Jio offers a valuable lesson. While some may attribute Jio’s rise to crony capitalism, the broader takeaway is the importance of aligning with government strategies to achieve commercial success in a complex and competitive market like India. This alignment can help navigate regulatory hurdles and gain access to a vast consumer base.\n\nIndia's digital push has long been a challenge for foreign firms due to its regulatory environment and market dynamics. However, Jio’s experience shows that partnering with the government and aligning with national priorities can be a pathway to success. This is particularly relevant for companies like Starlink, which are looking to expand their satellite broadband services in emerging markets.\n\nThe strategic alignment between private enterprise and government objectives in India could set a precedent for other global tech firms. As India continues to grow as a digital hub, understanding and leveraging these partnerships may become essential for foreign companies aiming to capture market share.",
-      "imageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2CUGVjoCTqo/v1/1200x850.jpg",
-      "source": "Bloomberg.com",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-10-27/ambani-s-jio-shows-musk-how-to-win-in-modi-s-india",
-      "publishedAt": "2026-10-27T23:30:15Z",
-      "tags": [
-        "jio",
-        "modi",
-        "starlink",
-        "india",
-        "digital"
       ],
       "importance": 2
     },
@@ -265,25 +189,6 @@
         "performance"
       ],
       "importance": 3
-    },
-    {
-      "id": "c83dc86850c2395c",
-      "company": "starlink",
-      "title": "Starlink Restrictions Prompt Allies to Reassess US Dependence",
-      "summary": "European officials are reevaluating their reliance on US technology after recent Starlink restrictions in Ukraine, according to Bloomberg.",
-      "body": "European officials are increasingly considering ways to reduce their dependence on US technology and defense contractors, following recent tensions surrounding Starlink's operations in Ukraine. According to sources, the situation has sparked renewed discussions about the risks of relying on American systems for critical infrastructure and defense needs.\n\nThe controversy began after changes to Starlink’s service in Ukraine, which led to a blame game between Ukrainian officials and Elon Musk’s company. Musk addressed the issue on X, stating that Starlink had restricted its services in response to Ukraine’s alleged violation of the company’s terms of service by using the satellite internet for offensive drone operations.\n\nThis incident has raised concerns among European allies about the reliability and control of US-based technologies in times of conflict. Some officials are now exploring alternatives to ensure greater autonomy in their defense and communication systems. The situation highlights the growing awareness of the geopolitical risks associated with depending on foreign technology, particularly in sensitive areas like military operations.\n\nThe developments underscore the complex interplay between private technology firms and international security dynamics. As Starlink continues to play a pivotal role in global connectivity, its actions in conflict zones are increasingly scrutinized by governments and international partners.",
-      "imageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i97x.n4md2QI/v0/1200x887.jpg",
-      "source": "Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-27/starlink-brinkmanship-is-driving-allies-to-rethink-us-reliance",
-      "publishedAt": "2026-10-27T16:13:06Z",
-      "tags": [
-        "starlink",
-        "ukraine",
-        "defense",
-        "geopolitics",
-        "satellite"
-      ],
-      "importance": 2
     },
     {
       "id": "3e751fdd4574a5c3",
@@ -361,25 +266,6 @@
       "importance": 2
     },
     {
-      "id": "8c6eca6717874642",
-      "company": "spacex",
-      "title": "SpaceX, Tesla merger talks and Anthropic's IPO may impact S&P 500",
-      "summary": "SpaceX and Tesla merger discussions, along with Anthropic's potential IPO, could reshape the S&P 500, though inclusion is not imminent.",
-      "body": "Elon Musk has hinted at the possibility of a merger between SpaceX and Tesla, which could create a company with a combined market value of over $3.55 trillion. This would make it the fifth-largest company globally. Meanwhile, Anthropic, a leading AI firm, has filed to go public, potentially seeking a valuation of $1.5 trillion to $2 trillion. However, these companies are not expected to be added to the S&P 500 index anytime soon due to the 12-month waiting period for newly public or merged entities.\n\nThe S&P 500 is composed of the 500 largest publicly traded companies in the U.S. and is weighted by market capitalization. SpaceX, for example, is not currently included in the index and will have to wait until June 2027 for consideration. Anthropic, if it goes public, would also face a similar waiting period before being evaluated for inclusion. The inclusion of a merged SpaceX-Tesla entity would depend on the structure of the merger and the public shareholding of the combined company.\n\nExperts suggest that if these companies are eventually added to the S&P 500, it could increase the index's concentration in tech and AI sectors. Currently, the top 10 holdings in the S&P 500 account for nearly 40% of the index's assets, with many tied to AI advancements. The addition of a SpaceX-Tesla merger or Anthropic could further tilt the index toward these sectors, raising concerns about over-concentration in high-growth but potentially overvalued stocks.\n\nInvestors are advised to consider the risks of holding too much exposure to a few large companies, as past performance does not guarantee future returns. While the potential inclusion of these firms in the S&P 500 is a topic of discussion, it is not expected to happen immediately.",
-      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108465533-1793046282976-Dario_Musk.jpg?v=1793046379&amp;w=1920&amp;h=1080",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/make-it/2026/10/27/spacex-tesla-anthropic-and-sp-500-index-rules.html",
-      "publishedAt": "2026-10-27T12:00:01Z",
-      "tags": [
-        "spacex",
-        "tesla",
-        "s&p 500",
-        "anthropic",
-        "musk"
-      ],
-      "importance": 2
-    },
-    {
       "id": "eaac0edce832045b",
       "company": "starlink",
       "title": "SpaceX launches Starlink satellites from California in early morning mission",
@@ -395,24 +281,6 @@
         "falcon9",
         "satellite",
         "launch"
-      ],
-      "importance": 2
-    },
-    {
-      "id": "edef00327beb3d25",
-      "company": "starlink",
-      "title": "Alleged Israeli spy company targeted Starlink users, sources claim",
-      "summary": "Sources indicate an alleged Israeli spy company heavily targeted Starlink users, raising concerns about data security and privacy.",
-      "body": "According to sources, an alleged Israeli spy company has been heavily targeting users of Starlink, the satellite internet service operated by SpaceX. This revelation has sparked concerns about the potential misuse of user data and the security of the service. Starlink provides internet access to remote and underserved regions, and its infrastructure has been critical in various global operations, including military and humanitarian efforts. The alleged targeting suggests a possible breach of user privacy or data security protocols. While Starlink has not officially commented on the matter, the issue highlights the growing importance of cybersecurity in satellite communications. The company has previously emphasized its commitment to user privacy and data protection, but this incident may prompt further scrutiny of its security measures. The involvement of an alleged spy company raises questions about the extent of surveillance and data collection practices in the context of satellite internet services. As Starlink continues to expand its global reach, ensuring the security of its network becomes increasingly vital. This development could also influence future regulatory actions and user trust in the service. The situation underscores the need for transparency and robust security measures in the rapidly evolving field of satellite communications.",
-      "imageUrl": null,
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/media-telecom/alleged-israeli-spy-company-heavily-targeted-starlink-users-sources-say-2026-10-27/",
-      "publishedAt": "2026-10-27T10:04:00Z",
-      "tags": [
-        "starlink",
-        "security",
-        "spying",
-        "data privacy"
       ],
       "importance": 2
     },
