@@ -1276,6 +1276,21 @@
   ],
   "elonX": [
     {
+      "id": "2115503730368061688",
+      "url": "https://x.com/elonmusk/status/2115503730368061688",
+      "text": "Impressive https://t.co/v2BqNh6Bhf",
+      "createdAt": "2026-10-28T17:59:28.000Z",
+      "kind": "quote",
+      "quotedText": "I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.\n\nFollowing Argon's release just two weeks ago, Carbon shows the pace at which we’re pushing the frontier, it ranks #1 on the recently updated v5.0 of @ArtificialAnlys Intelligence Index at 59. It also leads across key cybersecurity evaluations scoring 88.2% on SEC-bench Pro for finding vulnerabilities, 54.8% on ExploitGym for exploitation, and 71.0% on CWE-bench for patching.\n\nWe’re seeing significant improvements in long-horizon tasks even compared to Argon, and we’ve strengthened frontier safeguards.\n\nAs we did with Argon, we’re going to roll it out gradually + responsibly. Some trusted cyber defenders will get access starting this week. We'll be expanding it to more partners through our Fairwind Program, ahead of wider availability soon, so hang tight!",
+      "imageUrls": [
+        "https://pbs.twimg.com/media/HVu5GHmbUAAppsK.jpg"
+      ],
+      "likes": 1279,
+      "reposts": 117,
+      "replies": 260,
+      "views": 389870
+    },
+    {
       "id": "2115501646545572015",
       "url": "https://x.com/elonmusk/status/2115501646545572015",
       "text": "FARM ATTACK: Another South African farmer attacked and brutally tortured on his farm this week.\n\nCattle farmer, Donovan Marx, from the North West province, had his ears cut off on Wednesday morning during a farm attack.\rHe was also shot in the shoulder and stabbed (with a sharp object) in the leg.\n\nAnd, for the umpteenth time, as far as I can determine, not a single article on any English media platform about it. This gross coverage disparity between the Afrikaans and English media when it comes to farm murders is what makes it possible for so many politicians and commentators to get away with their disgusting farm murder denialism.\n\nYou know what's even more infuriating? History and research shows, if the victim was black and the torturers were white, we would see this story on every front page and news channel for weeks. Debates, panel discussions, political party statements - the works! The president would even come out and condemn the attack.\n\nAgain, I refuse to accept the twisted, psychopathic standard that dismisses a farmer having his ears cut off as \"just normal crime.\"",
@@ -1948,6 +1963,490 @@
       "views": 2373461,
       "account": "Starlink",
       "company": "starlink"
+    }
+  ],
+  "sourcesX": [
+    {
+      "id": "2115462341240443382",
+      "url": "https://x.com/herbertong/status/2115462341240443382",
+      "text": "Elon says 20 gigawatts of compute next year is extremely unlikely, but no longer 0%.\n\n@nextbigfuture says it would take three to four data centers a month by the second half of the year.\n\nHis bottleneck isn't power, it's chips and memory.\n\n$SPCX https://t.co/1au68BMN2Y",
+      "createdAt": "2026-10-28T15:15:00.000Z",
+      "kind": "post",
+      "quotedText": null,
+      "imageUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2115447322494820352/img/FIVDPRXKNaF_Sf7G.jpg"
+      ],
+      "likes": 70,
+      "reposts": 4,
+      "replies": 12,
+      "views": 6053,
+      "account": "herbertong",
+      "name": "Herbert Ong"
+    },
+    {
+      "id": "2115457012125298791",
+      "url": "https://x.com/CernBasher/status/2115457012125298791",
+      "text": "https://t.co/zHe4NViUwB",
+      "createdAt": "2026-10-28T14:53:49.000Z",
+      "kind": "post",
+      "quotedText": null,
+      "imageUrls": [],
+      "likes": 59,
+      "reposts": 7,
+      "replies": 7,
+      "views": 5954,
+      "account": "CernBasher",
+      "name": "Cern Basher"
+    },
+    {
+      "id": "2115448500104392969",
+      "url": "https://x.com/herbertong/status/2115448500104392969",
+      "text": "FSD subscriptions just hit 1.74 million, up 260,000 in Q3.\n\n@nextbigfuture says the next wave comes from older HW4 cars, where only about 30% have it today.\n\nOnce owners can put their cars in the network, he says they could make $1,000 a month.\n\n$TSLA https://t.co/UJYrVXnpxR",
+      "createdAt": "2026-10-28T14:20:00.000Z",
+      "kind": "post",
+      "quotedText": null,
+      "imageUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2115442640791666689/img/a58lct48VujYGehU.jpg"
+      ],
+      "likes": 84,
+      "reposts": 8,
+      "replies": 8,
+      "views": 5841,
+      "account": "herbertong",
+      "name": "Herbert Ong"
+    },
+    {
+      "id": "2115442601147138080",
+      "url": "https://x.com/herbertong/status/2115442601147138080",
+      "text": "How big can Tesla's Robotaxi fleet get by year end? \n\n@nextbigfuture now tracks growth at 20% week over week, up from his earlier 15% and 17% estimates. If that holds, cumulative miles go from 3.3 million to about 15 million, and that takes roughly 8x the vehicles.\n\nHis gut says Dallas launches the first week of November, with Houston before the last week of November thanks to its huge geofence expansion. He guesses about 300 Cybercabs are already staged across the two cities.\n\nThat puts the fleet close to 2,000 by the end of November, with 5,000 needed by the end of December to stay on the 20% pace. \n\nElon's take on Austin? \"It was never a real contest.\"\n\n$TSLA",
+      "createdAt": "2026-10-28T13:56:33.000Z",
+      "kind": "post",
+      "quotedText": null,
+      "imageUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2115442504170708992/img/Vlewp1ZjKZG1davZ.jpg"
+      ],
+      "likes": 122,
+      "reposts": 21,
+      "replies": 8,
+      "views": 7497,
+      "account": "herbertong",
+      "name": "Herbert Ong"
+    },
+    {
+      "id": "2115427612768051453",
+      "url": "https://x.com/herbertong/status/2115427612768051453",
+      "text": "NEWS: Tesla's Texas Robotaxi registrations have reached 1,080, an 18x jump since June.\n\n573 of them are Cybercabs, which is 53.1% of the fleet.\n\nThe fleet grew 98% in October alone.\n\n$TSLA https://t.co/bExNxwpqvU",
+      "createdAt": "2026-10-28T12:57:00.000Z",
+      "kind": "post",
+      "quotedText": null,
+      "imageUrls": [
+        "https://pbs.twimg.com/media/HVtDWn5bQAADoi5.jpg"
+      ],
+      "likes": 640,
+      "reposts": 59,
+      "replies": 23,
+      "views": 11282,
+      "account": "herbertong",
+      "name": "Herbert Ong"
+    },
+    {
+      "id": "2115327320898851076",
+      "url": "https://x.com/thejefflutz/status/2115327320898851076",
+      "text": "American glass.  American metal.  American silicon.  American batteries.  American workers.  American everything. \n\nBlueChip is the first American computer in decades.  Don't let anyone lie to you and say it can't be done. \n\nDesigned in California.  Built in America. https://t.co/a0KnAoHbU3",
+      "createdAt": "2026-10-28T06:18:28.000Z",
+      "kind": "repost",
+      "quotedText": null,
+      "imageUrls": [],
+      "likes": 44836,
+      "reposts": 3906,
+      "replies": 1244,
+      "views": 1166897,
+      "account": "thejefflutz",
+      "name": "Jeff Lutz"
+    },
+    {
+      "id": "2115293081331503190",
+      "url": "https://x.com/thejefflutz/status/2115293081331503190",
+      "text": "SK Hynix:    \n\n- DRAM + HBM volumes are sold out for the next 3 years through '29.    \n- 50% of '27-'28 capacity is covered by long-term agreements and supply will be constrained until '30.  \n\nThe \"AI is a bubble\" noise is very loud yet the numbers tell a different story.",
+      "createdAt": "2026-10-28T04:02:25.000Z",
+      "kind": "repost",
+      "quotedText": null,
+      "imageUrls": [],
+      "likes": 496,
+      "reposts": 46,
+      "replies": 19,
+      "views": 46506,
+      "account": "thejefflutz",
+      "name": "Jeff Lutz"
+    },
+    {
+      "id": "2115280175562686579",
+      "url": "https://x.com/CernBasher/status/2115280175562686579",
+      "text": "Tesla will soon pass Waymo in vehicle count in Texas. https://t.co/RVoxtEB9Hy",
+      "createdAt": "2026-10-28T03:11:08.000Z",
+      "kind": "reply",
+      "quotedText": null,
+      "imageUrls": [
+        "https://pbs.twimg.com/media/HVr7KNjWIAA0IDR.jpg"
+      ],
+      "likes": 47,
+      "reposts": 0,
+      "replies": 3,
+      "views": 3036,
+      "account": "CernBasher",
+      "name": "Cern Basher"
+    },
+    {
+      "id": "2115280173134422105",
+      "url": "https://x.com/CernBasher/status/2115280173134422105",
+      "text": "Texas now has more Cybercabs than Model Ys in the Robotaxi fleet.\n\nThere will eventually be 5 to 6 times as many Cybercabs as Model Ys. https://t.co/NwEuExQy6J",
+      "createdAt": "2026-10-28T03:11:07.000Z",
+      "kind": "post",
+      "quotedText": null,
+      "imageUrls": [
+        "https://pbs.twimg.com/media/HVr65NwXEAAZFYY.jpg"
+      ],
+      "likes": 382,
+      "reposts": 28,
+      "replies": 18,
+      "views": 9392,
+      "account": "CernBasher",
+      "name": "Cern Basher"
+    },
+    {
+      "id": "2115271444963717519",
+      "url": "https://x.com/thejefflutz/status/2115271444963717519",
+      "text": "Picked up my Tesla model Y today. This car is amazing. Most game changing piece of tech I've bought since the first iPhone came out \n\nAlso, this reco by @ClayTravis is so strong it almost cancels out the fact that he once recommended \"Gladiator 2\" as a \"good movie\"",
+      "createdAt": "2026-10-28T02:36:26.000Z",
+      "kind": "repost",
+      "quotedText": null,
+      "imageUrls": [],
+      "likes": 3011,
+      "reposts": 109,
+      "replies": 200,
+      "views": 179445,
+      "account": "thejefflutz",
+      "name": "Jeff Lutz"
+    },
+    {
+      "id": "2115261440340754908",
+      "url": "https://x.com/CernBasher/status/2115261440340754908",
+      "text": "https://t.co/ZbtsmlgaEa",
+      "createdAt": "2026-10-28T01:56:41.000Z",
+      "kind": "post",
+      "quotedText": null,
+      "imageUrls": [],
+      "likes": 103,
+      "reposts": 7,
+      "replies": 4,
+      "views": 6823,
+      "account": "CernBasher",
+      "name": "Cern Basher"
+    },
+    {
+      "id": "2115143744744046703",
+      "url": "https://x.com/CernBasher/status/2115143744744046703",
+      "text": "https://t.co/VkNad6vuK9",
+      "createdAt": "2026-10-27T18:09:00.000Z",
+      "kind": "post",
+      "quotedText": null,
+      "imageUrls": [],
+      "likes": 94,
+      "reposts": 14,
+      "replies": 7,
+      "views": 10413,
+      "account": "CernBasher",
+      "name": "Cern Basher"
+    },
+    {
+      "id": "2115139623693533337",
+      "url": "https://x.com/herbertong/status/2115139623693533337",
+      "text": "Texas DMV data now shows 544 Cybercabs and 507 Model Ys, so the Cybercab makes up 52% of the 1,051-vehicle fleet. \n\nThe lead flipped in the Oct 27 update, just 8 weeks after the first Cybercabs were registered on Aug 31.\n\nThe pace is speeding up too, with 195 added in the last 7 days and 81 in the latest batch alone.\n\nData via https://t.co/LHmTA6m6JM\n\n$TSLA",
+      "createdAt": "2026-10-27T17:52:38.000Z",
+      "kind": "post",
+      "quotedText": null,
+      "imageUrls": [
+        "https://pbs.twimg.com/media/HVp8CDqbwAEwMJ6.jpg"
+      ],
+      "likes": 390,
+      "reposts": 39,
+      "replies": 10,
+      "views": 10908,
+      "account": "herbertong",
+      "name": "Herbert Ong"
+    },
+    {
+      "id": "2115106475022643381",
+      "url": "https://x.com/herbertong/status/2115106475022643381",
+      "text": "Florida Governor Ron DeSantis says the Tampa and Miami geofences need to include the beaches.\n\nElon's reply was \"Coming soon.\"\n\nRight now Miami covers 31 square miles and Tampa 24, while Austin is at 272 and Houston just jumped 916% to 254. All of these areas run fully unsupervised.\n\nWhen a governor is asking for a bigger service area, that says a lot.\n\n$TSLA",
+      "createdAt": "2026-10-27T15:40:55.000Z",
+      "kind": "quote",
+      "quotedText": "@RonDeSantis @wholemars Coming soon",
+      "imageUrls": [],
+      "likes": 577,
+      "reposts": 52,
+      "replies": 11,
+      "views": 14156,
+      "account": "herbertong",
+      "name": "Herbert Ong"
+    },
+    {
+      "id": "2115102218630377508",
+      "url": "https://x.com/herbertong/status/2115102218630377508",
+      "text": "Is AI a bubble?\n\n@thejefflutz says to tune out the noise and watch what hyperscaler CEOs say and do. They're saying the demand is unlike anything they've seen, and they're spending, through cash and now debt.\n\nHe points to Anthropic's S-1, where revenue per dollar of compute is up 5x since the beginning of last year and at an all-time high. SpaceX's guide implies a payback of under a year on its compute.\n\nThe market is moving from training to inference, which needs many times more compute, and physical AI hasn't even ramped yet.\n\n$SPCX $NVDA",
+      "createdAt": "2026-10-27T15:24:00.000Z",
+      "kind": "post",
+      "quotedText": null,
+      "imageUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2115095342798749696/img/WrK0xZrAAFogV4Ll.jpg"
+      ],
+      "likes": 84,
+      "reposts": 15,
+      "replies": 5,
+      "views": 7154,
+      "account": "herbertong",
+      "name": "Herbert Ong"
+    },
+    {
+      "id": "2115096208347627672",
+      "url": "https://x.com/thejefflutz/status/2115096208347627672",
+      "text": "On this day in 2021, Mary Barra did an interview on CNBC and was asked:\n\"Do you think you can catch Tesla by 2025?\"",
+      "createdAt": "2026-10-27T15:00:07.000Z",
+      "kind": "repost",
+      "quotedText": null,
+      "imageUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2115063030115422208/img/UNLppplf304oCwkR.jpg"
+      ],
+      "likes": 211,
+      "reposts": 32,
+      "replies": 26,
+      "views": 8881,
+      "account": "thejefflutz",
+      "name": "Jeff Lutz"
+    },
+    {
+      "id": "2115091256586183155",
+      "url": "https://x.com/herbertong/status/2115091256586183155",
+      "text": "Elon says SpaceX is not buying any neoclouds because it's \"pointless.\"\n\nMany of them have power deals.\n\n@thejefflutz reads that as a sign SpaceX already has its own power lined up.\n\n$SPCX https://t.co/qZpp9foaVG",
+      "createdAt": "2026-10-27T14:40:26.000Z",
+      "kind": "post",
+      "quotedText": null,
+      "imageUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2115091193566732288/img/xjJqyuhRCRMMOzRS.jpg"
+      ],
+      "likes": 197,
+      "reposts": 20,
+      "replies": 4,
+      "views": 10195,
+      "account": "herbertong",
+      "name": "Herbert Ong"
+    },
+    {
+      "id": "2115083798262038792",
+      "url": "https://x.com/thejefflutz/status/2115083798262038792",
+      "text": "Now the biggest suppliers in the world are competing to build factories for his businesses… 🚀 https://t.co/ogeHORYuZv",
+      "createdAt": "2026-10-27T14:10:48.000Z",
+      "kind": "quote",
+      "quotedText": "In 2003, I was surprised to see Elon articles in newspapers, as he was too shy to be interviewed. When I called him, he said no one would sell him rocket parts as they didn’t know who he was. Well, the rest is history. 🚀🤩 https://t.co/YwETNgjzyn",
+      "imageUrls": [],
+      "likes": 184,
+      "reposts": 10,
+      "replies": 3,
+      "views": 7189,
+      "account": "thejefflutz",
+      "name": "Jeff Lutz"
+    },
+    {
+      "id": "2115082470198771987",
+      "url": "https://x.com/herbertong/status/2115082470198771987",
+      "text": "Validation Cybercabs are out on Dallas roads \"for days,\" spotted by @scotsrule08.\n\nNone of them have the badges, so this still looks like testing and mapping rather than rides. \n\nHow long until the badged ones show up?\n\n$TSLA https://t.co/yOR40zb9gQ",
+      "createdAt": "2026-10-27T14:05:31.000Z",
+      "kind": "post",
+      "quotedText": null,
+      "imageUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2115067551847755776/img/bJWcblbZDNhmXea2.jpg"
+      ],
+      "likes": 723,
+      "reposts": 62,
+      "replies": 27,
+      "views": 18400,
+      "account": "herbertong",
+      "name": "Herbert Ong"
+    },
+    {
+      "id": "2115081235198546336",
+      "url": "https://x.com/herbertong/status/2115081235198546336",
+      "text": "Great to be with Herbert yesterday to talk through what a fair Tesla-SpaceX merger price looks like. I ran my own numbers and landed in the same ballpark as Brad Gerstner. We covered why Elon can't sit on the special committees, how hard it is to find truly independent directors, and why Tesla holders should look closely at the SpaceX shares they'd receive, because that's their future. For me, the sooner these companies combine, the better.\nhttps://t.co/TfaCShmsw2",
+      "createdAt": "2026-10-27T14:00:37.000Z",
+      "kind": "repost",
+      "quotedText": null,
+      "imageUrls": [],
+      "likes": 90,
+      "reposts": 5,
+      "replies": 14,
+      "views": 9962,
+      "account": "herbertong",
+      "name": "Herbert Ong"
+    },
+    {
+      "id": "2115078768612253968",
+      "url": "https://x.com/thejefflutz/status/2115078768612253968",
+      "text": "The epic moment is going to be when all the geofences in Texas start connecting to each other.",
+      "createdAt": "2026-10-27T13:50:49.000Z",
+      "kind": "repost",
+      "quotedText": null,
+      "imageUrls": [],
+      "likes": 627,
+      "reposts": 15,
+      "replies": 41,
+      "views": 14752,
+      "account": "thejefflutz",
+      "name": "Jeff Lutz"
+    },
+    {
+      "id": "2115071652178563516",
+      "url": "https://x.com/CernBasher/status/2115071652178563516",
+      "text": "Starbase supercomputer...\n\nThe only question is how big this super compute cluster will become. https://t.co/xuvf0l4Xoq",
+      "createdAt": "2026-10-27T13:22:32.000Z",
+      "kind": "quote",
+      "quotedText": "SpaceX hiring power plant ops manager for “Starbase supercomputer” https://t.co/C3R7nrQCz3",
+      "imageUrls": [
+        "https://pbs.twimg.com/media/HVo9d2DWoAA_Ru5.jpg"
+      ],
+      "likes": 87,
+      "reposts": 6,
+      "replies": 9,
+      "views": 8166,
+      "account": "CernBasher",
+      "name": "Cern Basher"
+    },
+    {
+      "id": "2115064340994740714",
+      "url": "https://x.com/thejefflutz/status/2115064340994740714",
+      "text": "NASDAQ Composite trailing PE:\n\n- March 2000 (dot-com peak): ~190x\n- October 2026: ~28x\n\nThe multiple back then was roughly 6 times higher.\n\nDo NOT compare today with the dot-com bubble.",
+      "createdAt": "2026-10-27T12:53:29.000Z",
+      "kind": "repost",
+      "quotedText": null,
+      "imageUrls": [],
+      "likes": 526,
+      "reposts": 31,
+      "replies": 28,
+      "views": 48338,
+      "account": "thejefflutz",
+      "name": "Jeff Lutz"
+    },
+    {
+      "id": "2115054511483990257",
+      "url": "https://x.com/CernBasher/status/2115054511483990257",
+      "text": "https://t.co/PD6mj5RxfV",
+      "createdAt": "2026-10-27T12:14:26.000Z",
+      "kind": "post",
+      "quotedText": null,
+      "imageUrls": [],
+      "likes": 81,
+      "reposts": 8,
+      "replies": 5,
+      "views": 9100,
+      "account": "CernBasher",
+      "name": "Cern Basher"
+    },
+    {
+      "id": "2115034724720664804",
+      "url": "https://x.com/thejefflutz/status/2115034724720664804",
+      "text": "IRAN SUPREME LEADER CALLS FOR MEETING CONDITIONS TO END THE WAR",
+      "createdAt": "2026-10-27T10:55:48.000Z",
+      "kind": "repost",
+      "quotedText": null,
+      "imageUrls": [],
+      "likes": 3302,
+      "reposts": 317,
+      "replies": 182,
+      "views": 517771,
+      "account": "thejefflutz",
+      "name": "Jeff Lutz"
+    },
+    {
+      "id": "2114952452781056280",
+      "url": "https://x.com/thejefflutz/status/2114952452781056280",
+      "text": "This graph makes it look like Tesla is committing election fraud. https://t.co/JvHPv1Zp4W",
+      "createdAt": "2026-10-27T05:28:53.000Z",
+      "kind": "repost",
+      "quotedText": null,
+      "imageUrls": [
+        "https://pbs.twimg.com/media/HVnCCsbawAAoer3.jpg"
+      ],
+      "likes": 11284,
+      "reposts": 341,
+      "replies": 189,
+      "views": 323088,
+      "account": "thejefflutz",
+      "name": "Jeff Lutz"
+    },
+    {
+      "id": "2114949836617433433",
+      "url": "https://x.com/thejefflutz/status/2114949836617433433",
+      "text": "Here's what you need to know from the Anthropic S-1: https://t.co/NbQAHaznbC https://t.co/31CDZSmWti",
+      "createdAt": "2026-10-27T05:18:29.000Z",
+      "kind": "repost",
+      "quotedText": null,
+      "imageUrls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2114745511987343361/img/g4R6Ixc4LFvKmsUE.jpg"
+      ],
+      "likes": 2182,
+      "reposts": 105,
+      "replies": 90,
+      "views": 165538,
+      "account": "thejefflutz",
+      "name": "Jeff Lutz"
+    },
+    {
+      "id": "2114757704308731998",
+      "url": "https://x.com/CernBasher/status/2114757704308731998",
+      "text": "https://t.co/qV34YwfvCx",
+      "createdAt": "2026-10-26T16:35:01.000Z",
+      "kind": "post",
+      "quotedText": null,
+      "imageUrls": [],
+      "likes": 165,
+      "reposts": 20,
+      "replies": 18,
+      "views": 36978,
+      "account": "CernBasher",
+      "name": "Cern Basher"
+    },
+    {
+      "id": "2114748880117957016",
+      "url": "https://x.com/CernBasher/status/2114748880117957016",
+      "text": "Anthropic revealed a $120.5 billion AI compute agreement with SpaceX\n\nIn its IPO filing released today, Anthropic disclosed that it expects to spend up to $120.5 billion on SpaceX's Super Intelligence (SI) computing infrastructure through 2029.\n\n$3.1 billion per month in revenue for SpaceX once all capacity is delivered (up from a previously disclosed $1.25 billion per month).\n\n$37.2 billion annually at the full contracted monthly rate.\n\nDecember 2026: All contracted computing capacity is expected to be delivered.\n\nEarly 2027: After initial non-cancelable periods expire, either party can terminate the agreements with 90 days' notice.\n\nIncluding Alphabet, Reflection AI, a undisclosed customer and announced customers, SpaceX's projections put the annualized SI compute rental revenue at approximately $8.3 billion per month - a $100 billion annualized run rate by the end of December.",
+      "createdAt": "2026-10-26T15:59:57.000Z",
+      "kind": "quote",
+      "quotedText": "Anthropic has officially revealed in its IPO filing today that the company expects to spend up to $120.5 billion on @SpaceX SI compute through 2029.\n\n• Monthly payments up to $3.1B, or $37.2B annually.\n• SpaceX is expected to deliver all contracted computing capacity by Dec 2026.\n• Anthropic (and SpaceX) can terminate the agreements with 90 days' notice after the initial contract periods end in early 2027.\n\nHere's the exact wording directly from the filing: \"Between May and October 2026, we entered into and amended several agreements with SpaceXAI to access compute powered by Nvidia GPUs. Under the SpaceXAI arrangements, we agreed to spend an aggregate of up to $120.5 billion over terms extending into 2029, consisting of approximately $3.1 billion in the aggregate per month once all capacity has been delivered, which we expect in December 2026, with different fees during capacity ramping periods. Following initial non-cancelable periods ending in January 2027 and March 2027 under the respective agreements, each agreement may be cancelled by either party upon 90 days’ advance written notice.\"",
+      "imageUrls": [
+        "https://pbs.twimg.com/media/HVkWssoXUAAD-il.jpg"
+      ],
+      "likes": 520,
+      "reposts": 63,
+      "replies": 21,
+      "views": 15632,
+      "account": "CernBasher",
+      "name": "Cern Basher"
+    },
+    {
+      "id": "2114707735476412436",
+      "url": "https://x.com/CernBasher/status/2114707735476412436",
+      "text": "SpaceX Just Unlocked a Powerful Formula for Funding AI Growth\n\nSpaceX has secured a $40 billion financing commitment for NVIDIA's next-generation Vera Rubin GPUs, with equipment leases extending approximately five years.\n\nSpaceX says its AI infrastructure investments are achieving payback periods of less than one year.\n\nThis means that SpaceX could potentially recover its entire infrastructure investment in under 12 months, while spreading the financing payments over roughly five years.\n\nThat's potentially four additional years of cash generation from equipment that has already paid for itself!\n\nAnd that cash flow could help finance even more AI infrastructure, creating a powerful cycle of reinvestment, capacity expansion, and accelerating growth.\n\nThe real breakthrough isn't just access to $40 billion in financing. It's the possibility that SpaceX can turn that financing into a self-reinforcing engine of exponential growth.",
+      "createdAt": "2026-10-26T13:16:28.000Z",
+      "kind": "quote",
+      "quotedText": "SpaceX has officially announced that they have secured $40 billion in the largest GPU financing ever.\n\nThe company entered into a $40B master finance lease for GPUs and related equipment with an entity managed by Apollo Global Management. This lease will deliver the next generation of NVIDIA Vera Rubin chips for SpaceX's terrestrial compute buildout and is an important step in our plan to build a Super Intelligence future. It represents the largest committed GPU financing ever.\n\nSpaceX CFO Bret Johnsen:\n\"SpaceX aims to deploy the largest compute infrastructure in the world. As demand for compute continues to accelerate, we're seeing less than one year payback periods on our SI infrastructure investments. This lease diversifies our funding sources and addresses a notable portion of the funding required to deliver on our growth plans as we aim to get additional compute online at record speeds to power Grok for enterprises and consumers, as well as serve existing and future cloud services customers.\"\n\nTransaction Details:\nThe financing has been committed to by a number of financing parties led by Apollo and Goldman Sachs, who served as sole structuring agent. Entry into the lease remains subject to certain specified closing conditions and is expected to close prior to year-end 2026, with lease schedules expected to commence upon delivery of GPUs and related equipment in the first half of 2027.",
+      "imageUrls": [
+        "https://pbs.twimg.com/media/HVjzdLtXYAALYMl.jpg"
+      ],
+      "likes": 364,
+      "reposts": 49,
+      "replies": 18,
+      "views": 12325,
+      "account": "CernBasher",
+      "name": "Cern Basher"
     }
   ]
 }
