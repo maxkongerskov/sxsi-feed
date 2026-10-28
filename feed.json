@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T17:20:37Z",
+  "generatedAt": "2026-10-28T17:37:08Z",
   "news": [
     {
       "id": "5327b236ed829588",
@@ -809,6 +809,25 @@
       "importance": 2
     },
     {
+      "id": "6f6a8c64eb55c20a",
+      "company": "tesla",
+      "title": "Tesla energy revenue drops 16% amid tariff-related refunds",
+      "summary": "Tesla's energy business saw a 16% drop in revenue for Q3 2026, attributed to tariff-related customer refunds.",
+      "body": "Tesla’s energy business deployed more batteries in Q3 2026 but reported a 16% year-over-year decline in energy generation and storage revenue, falling to $2.88 billion. Despite a 10% increase in storage deployments to 13.7 GWh, the company cited tariff-related customer refunds as a partial reason for the drop in revenue. The exact amount refunded or the affected customers were not specified in Tesla’s shareholder letter.\n\nThe energy segment’s gross margin improved to 33.1% from 20.4% in Q2 2026, but energy gross profit still declined to $954 million from $1.07 billion in the same period a year ago. Tesla listed “lower Energy Generation and Storage gross profit” as one of the reasons for its 56% drop in operating income.\n\nYear-to-date, Tesla has deployed 36 GWh of energy storage, up 11% from the same period in 2025. However, energy revenue is down 6% to $8.43 billion. Deployments also fell short of the 15.9 GWh that analysts had expected for Q3.\n\nTariffs have been a recurring factor in Tesla’s energy segment this year. In Q1 2026, Tesla noted “energy one-time benefits related to tariffs” as a driver of profit improvement. Now, the company is reportedly refunding customers, likely due to the Supreme Court’s February ruling that struck down the IEEPA tariffs. Tesla did not quantify the impact of these refunds.\n\nTesla is also working to reduce tariffs in its supply chain. The Texas Megafactory has begun production with 50 GWh of planned capacity, alongside 40 GWh in California and 20 GWh in Shanghai. The company also shipped its first Megapacks built entirely with its own LFP cells from Nevada, where it has 7 GWh of cell capacity in early ramp.\n\nStorage demand remains at an “all-time high,” driven by data centers requiring faster power delivery than the grid can provide. xAI, now part of SpaceX, has purchased an additional $269 million in Megapacks this year, following $430 million in purchases in 2025.",
+      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Tesla-Megapack-3-Megablock.webp?resize=1200,628",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/21/tesla-energy-revenue-drops-tariff-customer-refunds/",
+      "publishedAt": "2026-10-21T21:18:18Z",
+      "tags": [
+        "tesla",
+        "energy",
+        "tariffs",
+        "revenue",
+        "storage"
+      ],
+      "importance": 2
+    },
+    {
       "id": "f07309a46e6cdf66",
       "company": "tesla",
       "title": "Tesla FSD subscriptions reach 1.74 million, tied to Musk's pay package",
@@ -826,6 +845,25 @@
         "paypackage"
       ],
       "importance": 3
+    },
+    {
+      "id": "01070b5778802f45",
+      "company": "tesla",
+      "title": "Tesla cites battery supply as reason for flat sales, but prices continue to drop",
+      "summary": "Tesla attributes flat vehicle sales to battery supply constraints, but its prices are still declining, raising questions about the true cause of the slowdown.",
+      "body": "Tesla has stated that battery supply, rather than demand, is the primary factor limiting its vehicle sales. In its Q3 2026 shareholder letter, the company noted that battery availability remained a key constraint on increasing production volumes during the quarter. The letter also mentioned that Tesla ended the quarter with the largest backlog for its passenger vehicles in four years, though it did not quantify the backlog.\n\nTesla reported record deliveries in several international markets, including Canada, Australia, Japan, and Taiwan, as well as record production at its Gigafactory Berlin. However, overall vehicle deliveries in Q3 fell by 2% compared to the same period in 2025, with Model 3 and Model Y deliveries declining by 1%. Deliveries of other models, including the Cybertruck, Semi, and remaining Model S and X units, dropped by 48%.\n\nTesla produced 464,391 vehicles in Q3, delivering 22,141 more than it produced, marking the second consecutive quarter of inventory reduction. Global inventory levels fell to 11 days of supply, down from 27 days in Q1 and 15 days in Q2. Despite this, Tesla cited lower average selling prices (ASP) as a factor in its revenue growth, which is unusual for a company facing supply constraints.\n\nThe company is expanding its battery cell production to support new projects like the Cybercab and Tesla Semi, as well as increased Model Y production. However, the letter also noted that Tesla is prioritizing allocation decisions between selling vehicles and using battery cells for its owned and operated fleet, which may be contributing to the supply challenges.\n\nCritics argue that Tesla's explanation does not fully align with its financial performance, as falling prices and declining deliveries suggest a different issue may be at play. While battery supply is a real challenge, the company's strategy of directing resources toward higher-margin ventures may also be influencing its current sales trajectory.",
+      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2024/03/Tesla-4680-battery-cell-production-cybertruck.jpg?quality=82&strip=all&resize=1200,628",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/21/tesla-battery-supply-limiting-sales-prices-falling/",
+      "publishedAt": "2026-10-21T20:39:19Z",
+      "tags": [
+        "tesla",
+        "battery",
+        "sales",
+        "production",
+        "supply"
+      ],
+      "importance": 2
     },
     {
       "id": "6ec4c467ad3b",
@@ -974,6 +1012,25 @@
       "importance": 2
     },
     {
+      "id": "97f605902cb50325",
+      "company": "tesla",
+      "title": "Tesla Roadster 2.0 delays raise questions about EV innovation timeline",
+      "summary": "Despite recent advancements in electric vehicle technology, Tesla's Roadster 2.0 remains delayed, prompting discussions about the company's progress in the EV market.",
+      "body": "The long-awaited Tesla Roadster 2.0 continues to face delays, leaving buyers in limbo nearly a decade after its initial announcement. While competitors have begun offering flying, self-driving, and high-performance electric vehicles, Tesla has yet to deliver on its promises for the Roadster 2.0. This has sparked conversations about the pace of innovation in the electric vehicle industry and Tesla's position within it.\n\nRecent developments show that other companies are already delivering on advanced EV features, such as flying capabilities and self-driving technology. For example, McMurtry has begun production of its $1.36 million electric fan car, while DeLorean is reportedly working on a flying car that could hit the market before Tesla. These advancements highlight the competitive landscape Tesla now faces in the EV sector.\n\nSome critics have pointed to Elon Musk's personal habits and focus as potential factors in the delays. However, Tesla has not officially commented on these claims. The company continues to work on its roadmap, but the absence of a concrete timeline for the Roadster 2.0 has left many consumers and industry observers questioning the company's commitment to innovation in this area.\n\nAs the EV market evolves rapidly, Tesla's ability to meet its promises will be crucial in maintaining its leadership position. The Roadster 2.0 remains a symbol of the company's vision for the future of transportation, but its continued delay may signal challenges in executing on that vision.",
+      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/10/slate_2-1.jpg?quality=82&strip=all&resize=1200,628",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/19/flying-flipping-tesla-roadster-delivered-on-style-these-evs-deliver-on-substance/",
+      "publishedAt": "2026-10-19T22:57:37Z",
+      "tags": [
+        "tesla",
+        "roadster",
+        "ev",
+        "innovation",
+        "delays"
+      ],
+      "importance": 2
+    },
+    {
       "id": "c72190d03cc3a116",
       "company": "spacex",
       "title": "Tesla Proxy Shows Board Preparing for SpaceX Merger",
@@ -1030,6 +1087,25 @@
       "importance": 3
     },
     {
+      "id": "e3857967bd3e1a69",
+      "company": "tesla",
+      "title": "Tesla's New Roadster Demonstrates Impressive, But Questionable, Capabilities",
+      "summary": "Tesla has demonstrated its next-gen Roadster with capabilities like flying and driving upside down, but questions remain about the practicality and realism of these features.",
+      "body": "Tesla has finally re-unveiled its next-generation Roadster, a vehicle first introduced in 2017. The car was originally intended to outperform gasoline-powered vehicles in terms of speed and performance. However, nearly a decade has passed since its initial unveiling, and Tesla has not yet released the vehicle to the public. In the meantime, several other companies have launched their own electric sports cars and set impressive records in the process.\n\nThe new Roadster was showcased with a series of impressive demonstrations, including the ability to drive upside down, fly, and accelerate from 0 to 60 mph in under one second. These feats were achieved using a combination of a 'multi-mode suction system' and 'cold gas thrusters.' The suction system, which Tesla calls a 'fan car' system, creates a low-pressure zone underneath the vehicle, allowing it to stick to surfaces and even drive upside down.\n\nThe system uses fans that generate significant downforce, though some experts question the realism of the numbers claimed by Tesla. The downforce figures appear unusually high for a vehicle of its size, and the practicality of such performance remains under scrutiny. Additionally, the use of cold gas thrusters for stunts like flying and kickflips adds complexity and mass to the vehicle, which could potentially hinder performance.\n\nWhile the demonstrations were visually impressive, the practical benefits of these features for everyday driving are questionable. The 'cold gas thrusters' used for stunts like flying do not contribute to the vehicle's performance on the road. Instead, they add weight and complexity, which could negatively impact acceleration and overall efficiency. However, the side thrusters may offer some benefit in terms of cornering capability by providing additional lateral acceleration.\n\nTesla's CEO, Elon Musk, has long been known for making bold claims about the company's products. While the Roadster's capabilities are undeniably impressive, the question remains whether these features will translate into real-world performance or remain as marketing gimmicks.",
+      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Screenshot-2026-10-15-at-8.59.16-PM-e1792123240916.jpg?quality=82&strip=all&resize=1200,628",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/15/an-updated-technical-look-at-teslas-kick-flipping-0-60-in-1s-next-gen-roadster/",
+      "publishedAt": "2026-10-16T03:36:34Z",
+      "tags": [
+        "tesla",
+        "roadster",
+        "electric car",
+        "performance",
+        "elonomics"
+      ],
+      "importance": 3
+    },
+    {
       "id": "568aa47c4bd8",
       "company": "tesla",
       "title": "Tesla unveils thruster-equipped Roadster, due in 2028",
@@ -1044,6 +1120,25 @@
         "product-launch"
       ],
       "importance": 2
+    },
+    {
+      "id": "71a4a18f82f119f3",
+      "company": "tesla",
+      "title": "Tesla confirms Autopilot/FSD was engaged in fatal median crossing crash",
+      "summary": "Tesla confirmed its driver-assist system was engaged when a car crossed a median and killed a man in New Jersey.",
+      "body": "A Tesla Model Y crossed the grass median of Route 55 in New Jersey, hit a tree, and slid into oncoming traffic, striking an SUV head-on. The SUV's driver, 68-year-old Phillip Eastman, was killed. New Jersey State Police reported the incident as a case of a driver losing control, but Tesla's report to federal regulators indicated that the car's driver-assist system was engaged within 30 seconds of the crash.\n\nThe incident occurred around 8:31 a.m. on August 22, 2026, near milepost 34.6 on Route 55 in Vineland, Cumberland County. The Tesla's driver and a passenger in the Chevrolet SUV were injured and taken to the hospital with moderate injuries. Eastman, who had recently been sworn in as a Springfield School District board member and had a long history coaching ice hockey, was widely mourned in the Philadelphia area.\n\nTesla filed a report with the National Highway Traffic Safety Administration (NHTSA), identifying the vehicle as a 2021 Model Y and marking the automation as 'Verified Engaged.' However, Tesla redacted key details, including the crash narrative, software version, and whether the road was within the system's approved operating area, labeling them as 'confidential business information.'\n\nThe data does not confirm whether the driver was overriding the system or whether the software was basic Autopilot or Full Self-Driving (FSD). Tesla also logged a pre-crash speed of 37 mph, which is lower than typical freeway speeds, and only holds the car's telematics, not the event-data recorder or video.\n\nTesla is currently under NHTSA investigation over its reporting practices. The incident highlights concerns about the transparency of driver-assist systems and the potential risks of misinterpreting Level 2 automation as full autonomy. The public and investigators are calling for full disclosure of the data to understand the circumstances of the crash.\n\nElectrek is continuing its investigation to match reported crashes with Tesla's NHTSA filings, emphasizing the need for transparency in how driver-assist systems operate and the data they collect.",
+      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/10/fatal-tesla-crash.jpeg?quality=82&strip=all&resize=1200,628",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/15/tesla-driver-assist-median-crossing-vineland/",
+      "publishedAt": "2026-10-15T14:03:35Z",
+      "tags": [
+        "tesla",
+        "autopilot",
+        "fsd",
+        "nhtsa",
+        "crash"
+      ],
+      "importance": 3
     },
     {
       "id": "793cd0506ac4",
