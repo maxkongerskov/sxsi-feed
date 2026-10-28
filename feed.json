@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T16:45:23Z",
+  "generatedAt": "2026-10-28T16:54:46Z",
   "news": [
     {
       "id": "5327b236ed829588",
@@ -191,6 +191,25 @@
       "importance": 3
     },
     {
+      "id": "afc00bb1173070a8",
+      "company": "spacex",
+      "title": "SpaceX and Tesla Boards Explore Merger Possibility",
+      "summary": "SpaceX and Tesla have formed special committees to discuss a potential merger, according to Elon Musk, who stated he is not involved in the discussions.",
+      "body": "Elon Musk revealed during SpaceX’s earnings call that both SpaceX and Tesla have established special committees on their boards to explore the possibility of a merger. Musk emphasized that he is not involved in the discussions, as he is considered a conflicted party. The special committees are composed of independent directors, ensuring that the process is handled without his direct influence.\n\nThe move signals a potential shift in the strategic direction of both companies, which are currently operated separately. While no official announcement has been made regarding the merger, the formation of these committees indicates that the topic is being taken seriously by both organizations. Musk described the situation as an “odd kabuki dance,” highlighting the complexity of the process.\n\nThis development comes amid ongoing speculation about the future of Musk’s various ventures. Both SpaceX and Tesla are major players in their respective industries, with SpaceX leading in space exploration and Tesla dominating the electric vehicle market. A merger could potentially create a powerful conglomerate with significant influence across multiple sectors.\n\nThe outcome of these discussions remains uncertain, but the involvement of independent directors suggests that the process will be thorough and transparent. Investors and industry observers will be closely watching for any updates on this potential merger.",
+      "imageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iN3w7g4O1H.8/v0/1200x800.jpg",
+      "source": "Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-27/spacex-and-tesla-turn-to-boards-cozy-with-musk-to-mull-a-merger",
+      "publishedAt": "2026-10-27T17:00:00Z",
+      "tags": [
+        "spacex",
+        "tesla",
+        "merger",
+        "elonmusk",
+        "boards"
+      ],
+      "importance": 3
+    },
+    {
       "id": "3e751fdd4574a5c3",
       "company": "tesla",
       "title": "Korean police book 80 Tesla drivers over illegal FSD unlock devices",
@@ -323,6 +342,195 @@
       "importance": 2
     },
     {
+      "id": "eeb4362e34f9dbea",
+      "company": "tesla",
+      "title": "Tesla may resume selling US-built Model 3s in Canada amid quota issues",
+      "summary": "Tesla Canada has updated its website with specs matching the Fremont-built Model 3, suggesting a possible return of US-made vehicles before Shanghai-built models resume.",
+      "body": "Tesla Canada has updated the specifications for the Model 3 Premium Rear-Wheel Drive on its website, showing a range of 584 km and a 0-100 km/h time of 5.2 seconds. These numbers align with the Fremont-built Long Range RWD model that Tesla previously sold in Canada, rather than the Shanghai-built version currently listed at 463 km and 6.2 seconds.\n\nThe change was first noticed by a Canadian Tesla owner on X, who pointed out the new figures in the 'Model 3 Premium Specs' section. The updated page now includes a curb weight of 1,745 kg and promises 'up to 584 km (EPA est.) on a single charge.' However, Tesla's Canadian comparison page still lists the older specs, indicating a potential discrepancy or delay in updates.\n\nThe Fremont-built Model 3 Long Range RWD was previously available in Canada at a starting price of $54,990 and was eligible for the federal iZEV rebate. This model matches the current US-sold Premium RWD, which has a 363-mile EPA range (equivalent to 584 km) and a 0-60 mph time of 4.9 seconds. The Shanghai-built version, while offering a longer range of 830 km, is currently unavailable due to quota restrictions.\n\nTesla faces challenges with Canada's 25% counter-tariffs on US-made vehicles, which were implemented in April 2025. These tariffs significantly increased the cost of US-built models, leading Tesla to discontinue them in Canada earlier this year. If Tesla were to reintroduce the Fremont-built Model 3, it would likely be priced around $65,000 to $67,000, exceeding the $50,000 limit of Canada's new EV Affordability Program.\n\nCurrently, the only Model 3 available for order in Canada is the Performance variant, priced at $74,990. Analysts suggest that Tesla may be preparing a temporary solution by reintroducing the Fremont-built Premium RWD to fill the gap until Shanghai-built models become available in March 2027.",
+      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Model-3.jpeg?quality=82&strip=all&resize=1200,628",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/26/tesla-us-built-model-3-canada-return-584-km/",
+      "publishedAt": "2026-10-26T21:18:39Z",
+      "tags": [
+        "tesla",
+        "model3",
+        "canada",
+        "tariffs",
+        "production"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "af524505e789d988",
+      "company": "spacex",
+      "title": "Falcon 9 and GSLV Rockets Set for Upcoming Launches",
+      "summary": "Falcon 9 and GSLV rockets are scheduled for launches, marking significant developments in space exploration.",
+      "body": "Falcon 9 and GSLV rockets are set to launch in the near future, highlighting ongoing efforts in space exploration. The Falcon 9, developed by SpaceX, is known for its reusability and cost-effectiveness in delivering payloads to orbit. Meanwhile, the GSLV, developed by the Indian Space Research Organisation (ISRO), is a key player in India's space program. These launches are expected to contribute to various scientific and commercial missions. The Falcon 9 has been instrumental in supporting satellite deployments and crewed missions to the International Space Station. The GSLV is anticipated to carry payloads that support national and international research initiatives. Both launches underscore the collaborative and competitive nature of the global space industry. SpaceX continues to push the boundaries of space technology with its Falcon 9, while ISRO remains a significant force in the region. The upcoming launches are part of a broader trend of increased activity in space exploration and commercial satellite deployment. These events are closely watched by industry experts and space enthusiasts alike. The success of these launches will have implications for future missions and technological advancements in the sector. As the countdown begins, anticipation builds for what these launches will achieve in the realm of space exploration.",
+      "imageUrl": null,
+      "source": "NASASpaceflight",
+      "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102626/",
+      "publishedAt": "2026-10-26T21:11:56Z",
+      "tags": [
+        "spacex",
+        "falcon9",
+        "spaceexploration",
+        "gslv",
+        "isro"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "9f374a8413e0f784",
+      "company": "spacex",
+      "title": "SpaceX secures $40B debt financing for AI infrastructure",
+      "summary": "SpaceX has closed a $40 billion debt financing deal to support its AI infrastructure needs, as the company continues to expand its capabilities beyond rockets and satellites.",
+      "body": "SpaceX has secured a $40 billion debt financing deal to fund its growing AI infrastructure operations. The move comes as the company continues to invest heavily in artificial intelligence, leveraging its vast computational resources for various applications. Elon Musk confirmed the deal on X, highlighting the challenges faced by companies reliant on AI data centers in accessing capital. He noted that debt markets have largely shut off access to money for companies without substantial revenue independent of AI data centers, leading to a wave of consolidation among smaller players in the space. This development underscores the increasing importance of AI infrastructure in SpaceX's broader operations, which now include significant investments in computing power and data processing capabilities. The financing will support SpaceX's ongoing efforts to build and maintain the computational resources necessary for its AI initiatives, which are expected to play a crucial role in the company's future projects. As the AI funding landscape becomes more competitive, SpaceX's ability to secure such a large financing deal positions it as a major player in the rapidly evolving AI industry. The move also reflects the growing recognition of the strategic value of AI infrastructure in the broader tech ecosystem, with companies like SpaceX leading the charge in this new frontier. With the AI funding window closing, securing capital has become a critical factor for companies aiming to stay ahead in the race for technological innovation. SpaceX's recent financing deal is a clear indication of its commitment to maintaining a strong position in this increasingly competitive landscape.",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108349726-1786713125325-gettyimages-2290400779-dji_20260813183212_0003_d_nsv5qv2b.jpeg?v=1786713177&amp;w=1920&amp;h=1080",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/10/26/meta-spacex-anthropic-stoke-the-ai-funding-frenzy-what-it-means-for-our-stocks.html",
+      "publishedAt": "2026-10-26T20:26:26Z",
+      "tags": [
+        "spacex",
+        "ai",
+        "funding",
+        "musk"
+      ],
+      "importance": 3
+    },
+    {
+      "id": "dd9baed4287973f6",
+      "company": "tesla",
+      "title": "Tesla-SpaceX merger hopes drive bullish analyst sentiment",
+      "summary": "Analyst sentiment for Tesla has turned increasingly positive as speculation about a potential merger with SpaceX grows.",
+      "body": "Analyst sentiment for Tesla Inc. has shifted significantly in recent weeks, with a notable decline in bearish ratings. This shift comes amid growing speculation about a potential merger between Tesla and SpaceX, Elon Musk’s aerospace company. The proportion of negative analyst ratings on Tesla’s stock has reached its lowest level in over 11 years, signaling a growing confidence in the electric vehicle maker’s future prospects.\n\nSeveral major financial institutions have adjusted their ratings in response. BNP Paribas and CLSA both removed their sell-equivalent recommendations, upgrading to neutral and hold, respectively. Barclays followed suit, raising its rating to a buy equivalent from hold. These changes reflect a broader trend of optimism among investors and analysts regarding Tesla’s strategic direction and potential synergies with SpaceX.\n\nTesla’s stock price has responded positively to the improved analyst outlook, rising 5.2% on Monday alone. The shift in sentiment highlights the market’s anticipation of a potential merger that could combine Tesla’s leadership in electric vehicles with SpaceX’s advancements in aerospace and technology. While no official announcement has been made, the speculation has sparked renewed interest in both companies and their future collaboration.\n\nThe potential merger would represent a significant move for Elon Musk, who leads both Tesla and SpaceX. It could reshape the landscape of both industries and bring together two of Musk’s most prominent ventures under a single entity.",
+      "imageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_ljTHmUtXrw/v0/1200x783.jpg",
+      "source": "Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-26/tesla-spacex-merger-hopes-send-bearish-ratings-to-11-year-low",
+      "publishedAt": "2026-10-26T20:11:45Z",
+      "tags": [
+        "tesla",
+        "spacex",
+        "merger",
+        "analyst",
+        "stock"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "4a53d7cc4c0d4fa5",
+      "company": "tesla",
+      "title": "Tesla owners in Slovakia embrace assisted-drive tech as EU considers expansion",
+      "summary": "Tesla owners in Slovakia are adopting the company's assisted-drive technology, as the European Union evaluates its potential rollout across the bloc.",
+      "body": "Tesla owners in Slovakia are increasingly utilizing the company's assisted-drive features, which include advanced driver-assistance systems (ADAS) designed to enhance safety and convenience. These features have been well-received by local drivers, who appreciate the technology's ability to reduce driver workload and improve road safety.\n\nThe European Union is currently considering the broader implementation of such technologies across member states. This move aligns with the bloc's ongoing efforts to modernize transportation infrastructure and promote safer driving practices. The EU's regulatory framework is being reviewed to ensure that these technologies meet stringent safety and data privacy standards.\n\nTesla's assisted-drive systems are part of its broader strategy to integrate autonomous driving capabilities into its vehicles. The company continues to refine its software and hardware to support more advanced features in the future. As the EU weighs its options, Tesla's technology remains a focal point for discussions on the future of mobility in Europe.\n\nThe potential expansion of assisted-drive technology across the EU could have significant implications for the automotive industry, influencing both consumer behavior and regulatory policies. Tesla's role in this development underscores its position as a leader in electric and autonomous vehicle innovation.",
+      "imageUrl": null,
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/tesla-owners-slovakia-welcome-assisted-drive-tech-eu-weighs-rollout-across-bloc-2026-10-26/",
+      "publishedAt": "2026-10-26T19:40:45Z",
+      "tags": [
+        "tesla",
+        "autonomous driving",
+        "eu",
+        "slovakia",
+        "technology"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "512fc3f63246538d",
+      "company": "spacex",
+      "title": "SpaceX Raptor 4 Engine to Deliver 300 Ton Thrust at Same Mass as Raptor 3",
+      "summary": "SpaceX is set to significantly boost the thrust of its Raptor engine while maintaining its mass, enhancing the performance of the Super Heavy booster.",
+      "body": "SpaceX has been steadily improving the Raptor engine family, increasing sea-level thrust while reducing mass. This iterative engineering has led to a substantial performance boost for the Super Heavy booster. Elon Musk recently shared details on the upcoming Raptor 4, which is expected to deliver 300 metric tons of thrust at roughly the same mass as Raptor 3.\n\nRaptor 1 initially provided 185 metric tons of thrust at 2,080 kilograms. Raptor 2 improved this to 230 tons at 1,630 kilograms. Raptor 3 targets 280 tons at 1,525 kilograms, with operational ratings near 250 tons. Raptor 4 will push this further to 300 tons, marking a more than 60 percent increase in thrust from the first iteration.\n\nWith 33 engines on the Super Heavy booster, the jump to Raptor 4 would result in approximately 9,900 metric tons of total liftoff thrust. This is nearly three times the thrust of the Saturn V rocket, which had five F-1 engines producing about 3,400 metric tons of thrust.\n\nHigher sea-level thrust improves the initial thrust-to-weight ratio of the full stack, leading to faster acceleration off the pad. This reduces the time spent fighting gravity, which is a major drain on total available delta-v. Every second shaved off during the early climb preserves more propellant energy for reaching orbital velocity or carrying extra payload.\n\nMaintaining the same mass for Raptor 4 while increasing thrust improves the engine's own thrust-to-weight ratio and reduces the structural and propellant mass fraction needed to support the engines. These improvements allow for greater propellant capacity, larger payloads, and higher flight rates, which are essential for large-scale space transport.\n\nThe practical effects of these advancements are significant for Starship's architecture. Greater liftoff thrust supports heavier vehicles, larger propellant loads, and higher payloads to low Earth orbit, which SpaceX has targeted in the 100-plus-ton reusable range. This capacity underpins orbital refueling, lunar missions, and eventual Mars cargo and crew flights.",
+      "imageUrl": "https://www.teslarati.com/wp-content/uploads/2026/10/spacex-raptor-engines-1000x600.jpeg",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/spacex-raising-raptor-sea-level-thrust-engine-mass-steady/",
+      "publishedAt": "2026-10-26T18:36:44Z",
+      "tags": [
+        "spacex",
+        "raptor",
+        "superheavy",
+        "engine",
+        "thrust"
+      ],
+      "importance": 3
+    },
+    {
+      "id": "2a90503dcfb7e0dd",
+      "company": "tesla",
+      "title": "Tesla's Robotaxi geofence shaped like a rocket sparks online reactions",
+      "summary": "Tesla expanded its Robotaxi service area in Houston with a geofence shaped like a rocket, drawing comparisons to past designs and raising questions about its practicality.",
+      "body": "Tesla has expanded its Robotaxi service area in Houston, drawing the new geofence in the shape of a rocket. The move has sparked online reactions, with some noting the design's resemblance to a phallic shape, a pattern Tesla has repeated in the past. The company's official Robotaxi account announced the expansion on X with the phrase 'Houston, we have liftoff,' a nod to the Apollo 13 mission. The new geofence covers approximately 254 square miles, significantly larger than the initial 25 square miles launched in April. However, the fleet of driverless Model Ys has grown at a much slower pace, with only 34 vehicles currently operating in the area. This expansion mirrors a similar situation in Austin, where Tesla expanded its service area to the entire metro with only around 20 vehicles. Despite the larger service area, the number of vehicles remains limited, raising questions about the practicality of the expansion. Tesla has acknowledged that safety is a major bottleneck for its Robotaxi expansion, limiting operations to lower-speed roads and avoiding complex environments. The geofenced areas indicate where rides can be ordered, but they do not necessarily reflect the efficiency of operations. The limited number of vehicles in operation and the routes they take are key factors in Tesla's ability to scale its Robotaxi service effectively.",
+      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/10/tesla-robotaxi-houston-geofence-rocket-map.jpg?quality=82&strip=all&resize=1200,628",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/26/tesla-robotaxi-houston-geofence-expansion-shape/",
+      "publishedAt": "2026-10-26T17:23:44Z",
+      "tags": [
+        "robotaxi",
+        "tesla",
+        "geofence",
+        "houston",
+        "expansion"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "986be1f339e37d81",
+      "company": "tesla",
+      "title": "Tesla Cybertruck Stopped in Germany Over Legal Restrictions",
+      "summary": "A Tesla Cybertruck was stopped in Germany due to legal restrictions, highlighting the vehicle's incompatibility with European road regulations.",
+      "body": "A Tesla Cybertruck was pulled over in Germany, illustrating the challenges of operating the vehicle on European roads. The Cybertruck's design has raised concerns among regulators, particularly regarding pedestrian protection standards. As a result, the vehicle lacks 'type approval' in Germany, making it illegal for regular use on the country's roads.\n\nThe Cybertruck's size also poses a problem. While it weighs less than 3,500kg, the 'Gross Vehicle Weight' of the vehicle exceeds this limit when fully loaded. This means that drivers typically holding a 'class B' license, which allows operation of vehicles up to 3,500kg, are not legally permitted to drive the Cybertruck. Instead, a 'C1' license, which permits vehicles up to 7.5 tons, is required.\n\nA Swedish driver was stopped near Vaterstatten, close to the southern border of Germany, for driving the Cybertruck without the appropriate license. The police denied the driver the right to continue, citing the need for a higher-class license. The driver had reportedly registered the vehicle in Poland but still faced legal issues due to the lack of proper licensing and speed restrictions.\n\nGerman regulations also require vehicles registered in the country to be limited to a maximum speed of 90 km/h (56 mph). The Cybertruck in question did not meet this requirement, further complicating its legal status. The incident underscores the difficulties of operating the Cybertruck in Europe, where individual exemptions are rare and often denied.\n\nDespite these restrictions, some drivers have managed to operate the Cybertruck in Europe by securing individual approvals from specific countries. However, this incident highlights the potential legal risks associated with driving an unapproved vehicle on European roads.",
+      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/10/44602931-der-von-der-polizei-auf-der-a99-bei-vaterstetten-angehaltene-tesla-cybertruck-die-schwarzen-balken-sollen-das-fahrzeug-auf-dem-polizeifoto-unkenntlich-OpPH.jpg?quality=82&strip=all&resize=1200,628",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/26/cybertruck-driver-stopped-in-germany-monster-truck-not-allowed-on-roads/",
+      "publishedAt": "2026-10-26T17:13:37Z",
+      "tags": [
+        "tesla",
+        "cybertruck",
+        "germany",
+        "regulation",
+        "license"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "c07ed513f932c12b",
+      "company": "xai",
+      "title": "Elon Musk warns of 'guppy-level death' for 200+ neoclouds",
+      "summary": "Elon Musk warned that over 200 neocloud companies could collapse due to financial strain, citing a lack of access to capital for those without substantial revenue.",
+      "body": "Elon Musk, CEO of SpaceX and Tesla, warned that more than 200 neocloud companies could face significant financial challenges, leading to what he described as 'guppy-level death' and consolidation in the sector. His comments came amid growing concerns about debt-fueled expansion and the ability of AI infrastructure companies to generate returns.\n\nMusk noted that debt markets have largely closed off access to capital for companies that do not have substantial revenue independent of AI data centers. He suggested that many neoclouds would struggle to survive, with only a few expected to make it through the current economic climate. SpaceX, which operates its own data centers, is a direct competitor to these companies, which also provide computing resources for AI development.\n\nThe warning follows a post by Chamath Palihapitiya, founder of Social Capital, who predicted that 2027 would be a turbulent year for the sector, with many companies facing financial difficulties. Neocloud stocks have already taken a hit, with companies like CoreWeave, Nebius, and Iren experiencing significant declines in value.\n\nNvidia, a major investor in several neoclouds, has expressed confidence in the demand for AI infrastructure, though it acknowledged a shortage of capital to support the sector's growth. Executives from Nebius and Iren have also defended their companies, stating that customer demand remains strong and that they are not facing the same level of debt as some of their peers.\n\nThe situation highlights the growing risks in the AI infrastructure space, as companies race to build out data centers while navigating a challenging financial landscape.",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108437814-1792509978035-gettyimages-2297775036-1r5_3021_gdulgt9a.jpeg?v=1792537393&amp;w=1920&amp;h=1080",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
+      "publishedAt": "2026-10-26T16:24:23Z",
+      "tags": [
+        "neoclouds",
+        "ai infrastructure",
+        "spacex",
+        "tesla",
+        "nvidia"
+      ],
+      "importance": 3
+    },
+    {
+      "id": "149ab3c9477c0c5c",
+      "company": "tesla",
+      "title": "Tesla partners with Turo to offer FSD test drives for renters",
+      "summary": "Tesla has partnered with car rental platform Turo to allow renters to access vehicles with Full Self-Driving (Supervised) enabled, aiming to boost FSD adoption and subscriptions.",
+      "body": "Tesla has partnered with Turo to allow US renters to access vehicles with Full Self-Driving (Supervised) enabled, marking a new approach to testing and promoting its advanced driver assistance system. The feature will launch on October 28, allowing users to filter for FSD-enabled Teslas through a direct integration with Tesla's API. This move provides a broader audience with the opportunity to experience FSD, which Tesla has been pushing as a subscription-based service since February 2024.\n\nTuro hosts can link their Tesla accounts to the platform, which verifies each car's FSD status. Eligible hosts can also receive a free one-month FSD trial, after which the standard $99 monthly subscription applies. Turo claims thousands of FSD-enabled Teslas are already listed, with the Model 3 and Model Y being among the most popular vehicles on the platform.\n\nThe partnership is part of Tesla's broader strategy to increase FSD adoption, especially as it tracks toward a milestone of 10 million active subscriptions. The company has been offering free FSD trials with new Model 3 and Model Y purchases, and this new initiative could help convert renters into long-term subscribers.\n\nHowever, the integration raises concerns about user understanding and safety. FSD (Supervised) is a level 2 driver assistance system, and the driver remains fully responsible at all times. Turo encourages renters to review Tesla's safety guidelines before using the feature, but it has not clarified liability in the event of an accident involving FSD.\n\nThe partnership with Turo represents a step toward Tesla's long-term vision of a 'Tesla Network,' where owners can rent out their vehicles for rides. While the current arrangement is limited to Turo, it provides Tesla with a new avenue to showcase FSD and potentially increase its user base.\n\nDespite the potential benefits, the rollout highlights the ongoing challenge of ensuring user awareness and responsible use of FSD technology. As Tesla continues to push the boundaries of autonomous driving, the balance between innovation and safety remains a critical concern.",
+      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&strip=all&resize=1200,628",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/26/tesla-turo-full-self-driving-test-drives/",
+      "publishedAt": "2026-10-26T16:22:31Z",
+      "tags": [
+        "tesla",
+        "fsd",
+        "turo",
+        "rental",
+        "autonomous"
+      ],
+      "importance": 2
+    },
+    {
       "id": "3756b02846aa",
       "company": "spacex",
       "title": "Starship Flight 15 booster completes full 33-engine static fire",
@@ -337,6 +545,82 @@
         "flight-15",
         "static-fire",
         "starbase"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "a42d0c4b7d3a89cd",
+      "company": "tesla",
+      "title": "Tesla Assisted Driving expands to tenth EU country",
+      "summary": "Tesla has expanded its Tesla Assisted Driving (TAD) to Latvia, marking the tenth EU country to approve the system.",
+      "body": "Tesla has expanded its Tesla Assisted Driving (TAD) suite to Latvia, the tenth European Union country to approve the company’s advanced driver assistance technology. The approval follows a provisional European type approval granted by the Netherlands’ RDW authority on April 10, 2026. Latvia’s Road Traffic Safety Directorate (CSDD) evaluated the Dutch documentation, coordinated with other national authorities, and reviewed updates from Tesla, including tightened speed offset limits and stronger driver monitoring.\n\nIn Europe, the feature is now marketed as Tesla Assisted Driving after a recent rule change deemed the name 'Full Self-Driving' misleading. The system remains an SAE Level 2 driver assistance tool, capable of controlling speed, steering, braking, lane changes, and intersections while following a navigation route. Drivers must continuously monitor the road and be prepared to intervene immediately.\n\nThe sequence of EU recognitions began with the Netherlands in April and continued through Lithuania, Estonia, Denmark, Belgium, Slovenia, Czechia, Croatia, and Slovakia. Most countries have relied on mutual recognition of the Dutch provisional approval rather than independent national testing. However, an EU-wide decision requires a qualified majority in the Technical Committee on Motor Vehicles, with larger markets like Germany, France, and Italy still under review. A vote is expected this December.\n\nFor Latvian Tesla owners with compatible vehicles and software, the imminent rollout expands access to the supervised system while emphasizing the need for attentive human oversight.",
+      "imageUrl": "https://www.teslarati.com/wp-content/uploads/2026/03/tesla-interior-navigation-fsd-1000x600-1.jpeg",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/tesla-expands-fsd-tad-tenth-eu-country/",
+      "publishedAt": "2026-10-26T15:48:45Z",
+      "tags": [
+        "tesla",
+        "eu",
+        "autonomous driving",
+        "tad",
+        "latvia"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "a3a442c292776fe9",
+      "company": "tesla",
+      "title": "Tesla expands Robotaxi geofence in Houston with SpaceX-themed design",
+      "summary": "Tesla has expanded its Robotaxi geofence in Houston, creating a rocket-shaped boundary that some believe is a nod to SpaceX and a potential merger.",
+      "body": "Tesla has expanded its Robotaxi geofence in Houston, Texas, creating a rocket-shaped boundary that spans the city’s northwestern and central areas. The move was announced with the message, “Houston, we have liftoff,” echoing the famous phrase from the Apollo 13 mission. While CEO Elon Musk stated the design was coincidental, many observers have interpreted it as a tribute to SpaceX, the aerospace company he also leads. The new geofence now covers a larger area than the previous 25-square-mile zone, which included neighborhoods like Jersey Village and Harvest Bend. The expansion brings the service closer to central Houston, where the company plans to continue its unsupervised Robotaxi operations.\n\nTesla’s Robotaxi service in Houston launched on April 18, 2026, alongside Dallas, marking the first unsupervised public expansion beyond Austin. The vehicles in the service are Model Ys, which operate without a driver in the front seat and are accessible through the Tesla Robotaxi app. The company has also been testing Cybercabs, purpose-built two-seater vehicles without steering wheels, in Houston. However, public Cybercab rides remain limited to Austin for now. The broader Robotaxi program now operates in six cities: Austin, Dallas, Houston, Miami, Orlando, and Tampa. Cumulative driverless miles reported by Tesla have reached several million.\n\nThe Houston expansion follows Tesla’s pattern of starting with tightly controlled validation zones before gradually expanding coverage based on real-world data. The rocket motif on the map highlights the company’s tendency to incorporate visual elements into its autonomous driving initiatives. Riders within the new boundary can request unsupervised Model Y trips through the Robotaxi app, though exact operating hours and Cybercab availability are subject to future updates.",
+      "imageUrl": "https://www.teslarati.com/wp-content/uploads/2025/08/robotaxi-austin-launch-1536x1025-1-1-1000x600.jpg",
+      "source": "Teslarati",
+      "url": "https://www.teslarati.com/tesla-expands-robotaxi-geofence-houston-spacex/",
+      "publishedAt": "2026-10-26T15:02:45Z",
+      "tags": [
+        "robotaxi",
+        "houston",
+        "spacex",
+        "tesla",
+        "autonomy"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "e20f90ebcc72ecde",
+      "company": "spacex",
+      "title": "Astranis Upgrades Falcon 9 Contract for Dedicated Satellite Launch",
+      "summary": "Astranis has upgraded its Falcon 9 launch contract with SpaceX to a dedicated mission for its entire Block 4 satellite production run, set for 2028.",
+      "body": "Astranis has announced an upgrade to its existing launch contract with SpaceX, transitioning the fourth launch to a dedicated mission for its entire Block 4 production run of MicroGEO satellites. The mission, scheduled for 2028, will carry six MicroGEO satellites directly into geostationary orbit (GEO) using an Impulse Helios upper stage. This marks a significant step in Astranis’ expansion of high-orbit infrastructure and will increase its total fleet size to 16 satellites.\n\nThe upgraded contract allows Astranis to fully utilize the payload capacity of the Falcon 9 rocket for this mission. This follows an initial agreement signed with SpaceX in late 2024. The move supports Astranis’ responsive business model, which focuses on securing dedicated launches for multi-satellite blocks to meet growing demand for controlled space infrastructure.\n\nGovernments and enterprises are increasingly seeking dedicated space infrastructure for communications and other missions, such as space domain awareness. Higher orbits like GEO are uniquely suited for these requirements. John Gedmark, CEO and co-founder of Astranis, noted that the company is ramping up production to meet demand for commercial and national security missions.\n\nThis contract follows the recent introduction of Perceptor, a system that extends Astranis’ capabilities beyond communications into space domain awareness and maneuverability. The company has already secured a backlog of over $1 billion in commercial contracts and is expanding its high-orbit platforms to connect, safeguard, and sustain critical infrastructure in GEO.\n\nAstranis, based in Northern California, has raised over $1.2 billion from top investors and employs more than 500 engineers and entrepreneurs. The company designs, builds, and operates its satellites from its 153,000 sq. ft. headquarters.",
+      "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/astranis-square.png?fit=1396%2C1383&ssl=1",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
+      "publishedAt": "2026-10-26T13:00:00Z",
+      "tags": [
+        "spacex",
+        "satellite",
+        "falcon9",
+        "astranis",
+        "geosynchronous"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "b4517f94bccf47d4",
+      "company": "tesla",
+      "title": "Range Energy's eTrailer Competes with Tesla Semi in Fuel Savings",
+      "summary": "Range Energy's eTrailer offers significant fuel savings for fleets, rivaling Tesla's fully electric Semi in certain scenarios.",
+      "body": "Range Energy, a startup focused on electrifying the trucking industry, has released a white paper comparing its eTrailer solution to Tesla's fully electric Semi. The analysis highlights the potential for fleets to reduce fuel costs significantly, especially given the current record-high diesel prices. Range's eTrailer uses its own battery and motors, reducing the workload on the tractor and thereby lowering diesel consumption.\n\nThe eTrailer is designed to work with existing diesel tractors, allowing fleets to adopt electrification without replacing their entire fleet immediately. This contrasts with Tesla's approach, which requires full electrification of the tractor. Range's solution has shown early results with a 36% reduction in fuel use and even a 50-70% improvement in a pilot program with an egg farm.\n\nThe white paper compares the two solutions across various scenarios, focusing on refrigerated trailers. While Tesla's Semi offers greater long-term savings, the eTrailer provides immediate benefits with minimal operational changes. However, the analysis has limitations, including estimated future diesel costs and lack of real-world data for Tesla's Semi.\n\nBoth solutions are better than traditional diesel in most scenarios, but neither is a perfect fit for all fleets. Range's eTrailer is expected to be available for volume production in late 2027, while Tesla's Semi is still in the early stages of production. Fleets are encouraged to evaluate their specific needs and run the numbers to determine the best option for their operations.",
+      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/05/range_semi-trailer.jpg?quality=82&strip=all&resize=1200,628",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/26/range-energy-shows-how-its-etrailer-saves-almost-as-much-as-a-tesla-semi/",
+      "publishedAt": "2026-10-26T12:00:00Z",
+      "tags": [
+        "tesla",
+        "trucking",
+        "electric vehicles",
+        "fuel savings",
+        "range energy"
       ],
       "importance": 2
     },
